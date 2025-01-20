@@ -1,0 +1,56 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods);@DeathMatch" -profiles=profiles "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye"
+=====================================================================
+Exe timestamp: 2025/01/19 22:17:47
+Current time:  2025/01/20 01:28:37
+Version 1.26.159040
+=====================================================================
+
+ 1:28:37.189 [Inputs] Loading inputs default "bin/constants.xml"
+ 1:28:37.204 [Inputs] Loading inputs default "bin/specific.xml"
+ 1:28:37.205 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 1:28:37.205 [Inputs] Loading inputs default "script_a/Inputs.xml"
+ 1:28:37.205 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 1:28:37.206 [Inputs] Loading inputs default "DeathMatch/Inputs/inputs.xml"
+ 1:28:37.206 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 1:28:37.206 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 1:28:37.206 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 1:28:37.206 [Inputs] Loading inputs cfg "bin/core.xml"
+ 1:28:37.206 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 1:28:37.208 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 1:28:56.708 Hostname of server: "EXAMPLE NAME"
+ 1:29:22.05 Player connect enabled
+ 1:36:15.845 [Login]: Adding player Leonid Astapev (82561290) to login queue at position 0
+ 1:36:15.845 [LoginMachine]: Add player Leonid Astapev (82561290 26.114.104.113:63069)
+ 1:36:15.845 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering AuthPlayerLoginState
+ 1:36:16.759 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering WaitAuthPlayerLoginState
+ 1:36:21.102 Подключился игрок Leonid Astapev (id=kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=).
+ 1:36:21.102 Player "Leonid Astapev"(steamID=76561199221059231) is connected
+ 1:36:21.102 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering WaitPlayerAssignedLoginState
+ 1:36:21.800 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering PlayerAssignedLoginState
+ 1:36:21.800 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering CreateNetObjectsLoginState
+ 1:36:21.801 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering PreloadCamLoginState
+ 1:36:21.802 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering WaitPreloadCamLoginState
+ 1:37:13.631 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering GetNewCharLoginState
+ 1:37:22.245 <CREATE NEW CHAR>:
+    charID 0
+    playerID 0
+    dpnid 82561290
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+ 1:38:41.892 Respawn: Add player Leonid Astapev (82561290) to respawn machine
+ 1:38:41.892 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering GetCharacterRespawnState
+ 1:38:41.892 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering PreloadCamRespawnState
+ 1:38:41.893 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering WaitPreloadCamRespawnState
+ 1:38:58.51 [StateMachine]: Player Leonid Astapev (dpnid 82561290 uid ) Entering GetNewCharRespawnState
+ 1:38:58.75 <RESPAWN NEW CHAR>:
+    charID 0
+    playerID 0
+    dpnid 82561290
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+ 1:39:26.397 [Disconnect]: Start script disconnect 82561290 (dbCharacterId 0 dbPlayerId 0) logoutTime 15
+ 1:39:26.398 [Disconnect]: Finish script disconnect 82561290 (kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=)
+ 1:39:26.410 [Disconnect]: DisconnectPlayerFinish 82561290
+ 1:39:26.676 [Disconnect]: Remove player info 82561290
+ 1:39:26.678 [Disconnect]: Player destroy 82561290 
+ 1:39:37.575  --- Termination successfully completed --- 

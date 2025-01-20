@@ -1,0 +1,605 @@
+[
+    {
+        "m_Id": "makarov",
+        "m_Name": "IJ70 'Makarov'",
+        "m_Classname": "MakarovIJ70",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_IJ70_8Rnd",
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "izh18",
+        "m_Name": "Izh18 'Singleshot'",
+        "m_Classname": "Izh18",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_762x39Tracer",
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "izh43",
+        "m_Name": "Izh43 'Shotgun'",
+        "m_Classname": "Izh43Shotgun",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_12gaPellets",
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "P1",
+        "m_Name": "P1",
+        "m_Classname": "P1",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_P1_8Rnd",
+        "m_Level": 2,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "colt1911_base",
+        "m_Name": "Colt1911 'Classic'",
+        "m_Classname": "Colt1911",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_1911_7Rnd",
+        "m_Level": 3,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "colt1911_eng",
+        "m_Name": "Colt1911 'Engraved'",
+        "m_Classname": "Engraved1911",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_1911_7Rnd",
+        "m_Level": 3,
+        "m_Price": 100
+    },
+    {
+        "m_Id": "glock",
+        "m_Name": "Glock19",
+        "m_Classname": "Glock19",
+        "m_Attachments": [
+            "FNP45_MRDSOptic"
+        ],
+        "m_Magazine": "Mag_Glock_15Rnd",
+        "m_Level": 4,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "lhorn_base",
+        "m_Name": "Longhorn 'Handcannon'",
+        "m_Classname": "Longhorn",
+        "m_Attachments": [
+            "FNP45_MRDSOptic"
+        ],
+        "m_Magazine": "Ammo_308WinTracer",
+        "m_Level": 5,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "lhorn_opt",
+        "m_Name": "Longhorn 'Optics'",
+        "m_Classname": "Longhorn",
+        "m_Attachments": [
+            "PistolOptic"
+        ],
+        "m_Magazine": "Ammo_308WinTracer",
+        "m_Level": 5,
+        "m_Price": 250
+    },
+    {
+        "m_Id": "mossin_base",
+        "m_Name": "Mosin9130 'Classic'",
+        "m_Classname": "Mosin9130",
+        "m_Attachments": [
+            "Mosin_Compensator"
+        ],
+        "m_Magazine": "Ammo_762x54",
+        "m_Level": 6,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "mossin_mark",
+        "m_Name": "Mosin9130 'Optic'",
+        "m_Classname": "Mosin9130",
+        "m_Attachments": [
+            "Mosin_Compensator",
+            "PUScopeOptic"
+        ],
+        "m_Magazine": "Ammo_762x54Tracer",
+        "m_Level": 6,
+        "m_Price": 300
+    },
+    {
+        "m_Id": "winfild",
+        "m_Name": "Winchester",
+        "m_Classname": "Repeater",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_357",
+        "m_Level": 7,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "mp133_base",
+        "m_Name": "Mp133 'Shotgun'",
+        "m_Classname": "Mp133Shotgun",
+        "m_Attachments": [
+            "FNP45_MRDSOptic"
+        ],
+        "m_Magazine": "Ammo_12gaPellets",
+        "m_Level": 8,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "sks_base",
+        "m_Name": "SKS 'Rifle'",
+        "m_Classname": "SKS",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_762x39",
+        "m_Level": 9,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "pp19_spec",
+        "m_Name": "PP19 'Bizon'",
+        "m_Classname": "PP19",
+        "m_Attachments": [
+            "PP19_Bttstck",
+            "PistolSuppressor",
+            "KobraOptic"
+        ],
+        "m_Magazine": "Mag_PP19_64Rnd",
+        "m_Level": 10,
+        "m_Price": 300
+    },
+    {
+        "m_Id": "mp5_base",
+        "m_Name": "MP5 'Assault'",
+        "m_Classname": "MP5K",
+        "m_Attachments": [
+            "MP5k_StockBttstck",
+            "MP5_RailHndgrd",
+            "PistolSuppressor",
+            "ReflexOptic"
+        ],
+        "m_Magazine": "Mag_MP5_30Rnd",
+        "m_Level": 11,
+        "m_Price": 500
+    },
+    {
+        "m_Id": "mp5_mark",
+        "m_Name": "MP5 'Marksman'",
+        "m_Classname": "MP5K",
+        "m_Attachments": [
+            "MP5k_StockBttstck",
+            "MP5_RailHndgrd",
+            "PistolSuppressor",
+            "ACOGOptic"
+        ],
+        "m_Magazine": "Mag_MP5_30Rnd",
+        "m_Level": 11,
+        "m_Price": 800
+    },
+    {
+        "m_Id": "m16_base",
+        "m_Name": "M16A2",
+        "m_Classname": "M16A2",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_STANAG_30Rnd",
+        "m_Level": 12,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "famas_base",
+        "m_Name": "FAMAS",
+        "m_Classname": "FAMAS",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_FAMAS_25Rnd",
+        "m_Level": 13,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "ak74_base",
+        "m_Name": "AK-74 'Classic'",
+        "m_Classname": "AK74",
+        "m_Attachments": [
+            "AK_WoodBttstck",
+            "AK_WoodHndgrd"
+        ],
+        "m_Magazine": "Mag_AK74_30Rnd",
+        "m_Level": 14,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "ak101_base",
+        "m_Name": "AK-101 'Classic'",
+        "m_Classname": "AK101",
+        "m_Attachments": [
+            "AK_PlasticHndgrd",
+            "AK_PlasticBttstck"
+        ],
+        "m_Magazine": "Mag_AK101_30Rnd",
+        "m_Level": 15,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "ak101_tact",
+        "m_Name": "AK-101 'Tactical'",
+        "m_Classname": "AK101",
+        "m_Attachments": [
+            "AK_RailHndgrd",
+            "AKS74U_Bttstck",
+            "AK_Suppressor",
+            "KobraOptic"
+        ],
+        "m_Magazine": "Mag_AK101_30Rnd",
+        "m_Level": 15,
+        "m_Price": 1000
+    },
+    {
+        "m_Id": "akm_base",
+        "m_Name": "AKM 'Classic'",
+        "m_Classname": "AKM",
+        "m_Attachments": [
+            "AK74_Hndgrd",
+            "AK74_WoodBttstck"
+        ],
+        "m_Magazine": "Mag_AKM_30Rnd",
+        "m_Level": 16,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "akm_mark",
+        "m_Name": "AKM 'Marksman'",
+        "m_Classname": "AKM",
+        "m_Attachments": [
+            "AK74_Hndgrd",
+            "AK74_WoodBttstck",
+            "PSO1Optic"
+        ],
+        "m_Magazine": "Mag_AKM_30Rnd",
+        "m_Level": 17,
+        "m_Price": 800
+    },
+    {
+        "m_Id": "akm_tact",
+        "m_Name": "AKM 'Tactical'",
+        "m_Classname": "AKM",
+        "m_Attachments": [
+            "AK_RailHndgrd",
+            "AK_WoodBttstck_Black",
+            "AK_Suppressor"
+        ],
+        "m_Magazine": "Mag_AKM_Palm30Rnd",
+        "m_Level": 18,
+        "m_Price": 1200
+    },
+    {
+        "m_Id": "akm_mgun",
+        "m_Name": "AKM 'Machinegun'",
+        "m_Classname": "AKM",
+        "m_Attachments": [
+            "AK_RailHndgrd",
+            "AK_FoldingBttstck",
+            "KobraOptic"
+        ],
+        "m_Magazine": "Mag_AKM_Drum75Rnd",
+        "m_Level": 19,
+        "m_Price": 2500
+    },
+    {
+        "m_Id": "aksu_base",
+        "m_Name": "AK74U 'Silence'",
+        "m_Classname": "AKS74U_Black",
+        "m_Attachments": [
+            "AKS74U_Bttstck",
+            "AK_Suppressor"
+        ],
+        "m_Magazine": "Mag_AK74_30Rnd",
+        "m_Level": 20,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "aug_base",
+        "m_Name": "AUG 'Classic'",
+        "m_Classname": "AugShort",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_Aug_30Rnd",
+        "m_Level": 21,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "aug_spec",
+        "m_Name": "AUG 'Tactical'",
+        "m_Classname": "Aug",
+        "m_Attachments": [
+            "M68Optic",
+            "M4_Suppressor"
+        ],
+        "m_Magazine": "Mag_Aug_30Rnd",
+        "m_Level": 22,
+        "m_Price": 1200
+    },
+    {
+        "m_Id": "aug_mgun",
+        "m_Name": "AUG 'Machinegun'",
+        "m_Classname": "Aug",
+        "m_Attachments": [
+            "ACOGOptic_6x"
+        ],
+        "m_Magazine": "Mag_STANAG_60Rnd",
+        "m_Level": 23,
+        "m_Price": 2500
+    },
+    {
+        "m_Id": "fal_base",
+        "m_Name": "FAL 'Classic'",
+        "m_Classname": "FAL",
+        "m_Attachments": [
+            "Fal_FoldingBttstck",
+            "M4_T3NRDSOptic"
+        ],
+        "m_Magazine": "Mag_FAL_20Rnd",
+        "m_Level": 24,
+        "m_Price": 500
+    },
+    {
+        "m_Id": "fal_mark",
+        "m_Name": "FAL 'Marksman'",
+        "m_Classname": "FAL",
+        "m_Attachments": [
+            "Fal_OeBttstck",
+            "ACOGOptic_6x"
+        ],
+        "m_Magazine": "Mag_FAL_20Rnd",
+        "m_Level": 25,
+        "m_Price": 3000
+    },
+    {
+        "m_Id": "blaze_base",
+        "m_Name": "Blaze 'Classic'",
+        "m_Classname": "B95",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_308Win",
+        "m_Level": 26,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "blaze_snip",
+        "m_Name": "Blaze 'Sniper'",
+        "m_Classname": "B95",
+        "m_Attachments": [
+            "HuntingOptic"
+        ],
+        "m_Magazine": "Ammo_308WinTracer",
+        "m_Level": 26,
+        "m_Price": 300
+    },
+    {
+        "m_Id": "scout_tact",
+        "m_Name": "Scout 'Tactical'",
+        "m_Classname": "Scout",
+        "m_Attachments": [
+            "ACOGOptic_6x",
+            "M4_Suppressor"
+        ],
+        "m_Magazine": "Mag_Scout_5Rnd",
+        "m_Level": 27,
+        "m_Price": 1000
+    },
+    {
+        "m_Id": "cr527_base",
+        "m_Name": "CR527 'Rifle'",
+        "m_Classname": "CZ527",
+        "m_Attachments": [],
+        "m_Magazine": "Mag_CZ527_5rnd",
+        "m_Level": 28,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "cr527_snip",
+        "m_Name": "CR527 'Sniper'",
+        "m_Classname": "CZ527_Black",
+        "m_Attachments": [
+            "HuntingOptic"
+        ],
+        "m_Magazine": "Mag_CZ527_5rnd",
+        "m_Level": 28,
+        "m_Price": 300
+    },
+    {
+        "m_Id": "cr550_snip",
+        "m_Name": "CR550 'Savanna'",
+        "m_Classname": "CZ550",
+        "m_Attachments": [
+            "HuntingOptic"
+        ],
+        "m_Magazine": "Mag_CZ550_10Rnd",
+        "m_Level": 29,
+        "m_Price": 600
+    },
+    {
+        "m_Id": "m4_base",
+        "m_Name": "M4A1 'Classic'",
+        "m_Classname": "M4A1",
+        "m_Attachments": [
+            "M4_PlasticHndgrd",
+            "M4_CarryHandleOptic",
+            "M4_OEBttstck"
+        ],
+        "m_Magazine": "Mag_STANAG_30Rnd",
+        "m_Level": 30,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "m4_tact",
+        "m_Name": "M4A1 'Tactical'",
+        "m_Classname": "M4A1",
+        "m_Attachments": [
+            "M4_RISHndgrd",
+            "M4_T3NRDSOptic",
+            "M4_MPBttstck",
+            "M4_Suppressor"
+        ],
+        "m_Magazine": "Mag_STANAG_30Rnd",
+        "m_Level": 30,
+        "m_Price": 1500
+    },
+    {
+        "m_Id": "m4_mark",
+        "m_Name": "M4A1 'Marksman'",
+        "m_Classname": "M4A1",
+        "m_Attachments": [
+            "M4_MPHndgrd",
+            "ACOGOptic",
+            "M4_MPBttstck",
+            "M4_Suppressor"
+        ],
+        "m_Magazine": "Mag_STANAG_30Rnd",
+        "m_Level": 30,
+        "m_Price": 2500
+    },
+    {
+        "m_Id": "m4_mgun",
+        "m_Name": "M4A1 'Spam'",
+        "m_Classname": "M4A1",
+        "m_Attachments": [
+            "M4_PlasticHndgrd",
+            "ReflexOptic",
+            "M4_CQBBttstck"
+        ],
+        "m_Magazine": "Mag_STANAG_60Rnd",
+        "m_Level": 30,
+        "m_Price": 3000
+    },
+    {
+        "m_Id": "m70_snip",
+        "m_Name": "M70 'Tundra'",
+        "m_Classname": "Winchester70",
+        "m_Attachments": [
+            "HuntingOptic"
+        ],
+        "m_Magazine": "Ammo_308WinTracer",
+        "m_Level": 30,
+        "m_Price": 1000
+    },
+    {
+        "m_Id": "deagle_hitman",
+        "m_Name": "Deagle 'Hitman'",
+        "m_Classname": "Deagle",
+        "m_Attachments": [
+            "PistolSuppressor"
+        ],
+        "m_Magazine": "Mag_Deagle_9rnd",
+        "m_Level": 31,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "deagle_cannon",
+        "m_Name": "Deagle 'Handcannon'",
+        "m_Classname": "Deagle",
+        "m_Attachments": [
+            "PistolOptic"
+        ],
+        "m_Magazine": "Mag_Deagle_9rnd",
+        "m_Level": 32,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "saiga_base",
+        "m_Name": "Saiga 'Classic'",
+        "m_Classname": "Saiga",
+        "m_Attachments": [
+            "Saiga_Bttstck"
+        ],
+        "m_Magazine": "Mag_Saiga_5Rnd",
+        "m_Level": 35,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "saiga_drum",
+        "m_Name": "Saiga 'Drum'",
+        "m_Classname": "Saiga",
+        "m_Attachments": [
+            "Saiga_Bttstck",
+            "KobraOptic"
+        ],
+        "m_Magazine": "Mag_Saiga_Drum20Rnd",
+        "m_Level": 35,
+        "m_Price": 3000
+    },
+    {
+        "m_Id": "vss_base",
+        "m_Name": "VSS 'Vintorez'",
+        "m_Classname": "VSS",
+        "m_Attachments": [
+            "PSO11Optic"
+        ],
+        "m_Magazine": "Mag_VSS_10Rnd",
+        "m_Level": 38,
+        "m_Price": 800
+    },
+    {
+        "m_Id": "asval_auto",
+        "m_Name": "AS-VAL 'Sturmer'",
+        "m_Classname": "ASVAL",
+        "m_Attachments": [
+            "M4_T3NRDSOptic"
+        ],
+        "m_Magazine": "Mag_VAL_20Rnd",
+        "m_Level": 40,
+        "m_Price": 1500
+    },
+    {
+        "m_Id": "asval_mark",
+        "m_Name": "AS-VAL 'Marksman'",
+        "m_Classname": "ASVAL",
+        "m_Attachments": [
+            "ACOGOptic"
+        ],
+        "m_Magazine": "Mag_VSS_10Rnd",
+        "m_Level": 40,
+        "m_Price": 3000
+    },
+    {
+        "m_Id": "svd_base",
+        "m_Name": "SVD 'Classic'",
+        "m_Classname": "SVD",
+        "m_Attachments": [
+            "PSO1Optic"
+        ],
+        "m_Magazine": "Mag_SVD_10Rnd",
+        "m_Level": 45,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "svd_tact",
+        "m_Name": "SVD 'Tactical'",
+        "m_Classname": "SVD",
+        "m_Attachments": [
+            "PSO1Optic",
+            "AK_Suppressor",
+            "GhillieAtt_Mossy"
+        ],
+        "m_Magazine": "Mag_SVD_10Rnd",
+        "m_Level": 45,
+        "m_Price": 5000
+    },
+    {
+        "m_Id": "deagle_gold",
+        "m_Name": "Deagle 'Singleshot'",
+        "m_Classname": "Deagle_Gold",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_357",
+        "m_Level": 50,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "m79_base",
+        "m_Name": "M79 'Launcher'",
+        "m_Classname": "M79",
+        "m_Attachments": [],
+        "m_Magazine": "Ammo_40mm_Explosive",
+        "m_Level": 50,
+        "m_Price": 10000
+    }
+]

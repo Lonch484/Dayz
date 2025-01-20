@@ -1,0 +1,384 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-1-19_20-42-43
+====================================================================================
+20:42:43 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:42:43 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:42:43 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:42:43 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:42:43 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:42:43 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:42:43 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:42:43 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:42:43 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:42:43 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:42:43 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:42:43 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:42:43 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:42:43 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:42:43 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:42:43 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:42:43 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:42:43 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:42:43 | [PermissionManager] Adding Super Admin (76561199221059231)
+20:42:43 | [PermissionManager] Loaded UserGroups.json
+20:42:43 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:42:43 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:42:43 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:42:43 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:42:43 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:42:43 | Building Sets Loaded: 0
+20:42:43 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+20:42:43 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:44:38 | Player "Leonid Astapev" (steamId=76561199221059231) connected to server!
+20:45:24 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:45:37 | "Leonid Astapev" (steamid=76561199221059231) teleported to crosshair (pos=<9070.115234, 224.022049, 3723.952637>)
+20:45:41 | [WeatherManager] Send Data Count is 0
+20:45:50 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:45:52 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:45:57 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:46:2 | "Leonid Astapev" (steamid=76561199221059231) /heal used on: "Leonid Astapev" (steamid=76561199221059231)
+20:46:3 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:46:4 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:46:6 | [WeatherManager] Send Data Count is 0
+20:46:9 | [Time Manager] Setting Date to 2025/9/21 9:7
+20:46:10 | [Time Manager] Setting Date to 2025/9/21 9:7
+20:46:10 | [Time Manager] Setting Date to 2025/9/21 9:7
+20:46:10 | [Time Manager] Setting Date to 2025/9/21 9:7
+20:46:10 | [Time Manager] Setting Date to 2025/9/21 9:7
+20:46:13 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+20:46:50 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_Black)
+20:49:21 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_HeavyRiders_Jacket_Black)
+20:49:33 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Enhanced_PCU_Black)
+20:49:49 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Jacket_SoftShell_Black)
+20:50:26 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (Shadow Com)
+20:51:5 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Small_Patch_US_Subdued)
+20:51:24 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_GunGloves_Black)
+20:51:47 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_Grey)
+20:51:59 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+20:52:15 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_M50_Gasmask_Black)
+20:52:27 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Operator_Boots_RG)
+20:53:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Comtac3_Headphones_FG_Velcro)
+20:53:14 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_M32_Headset_Black)
+20:53:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Belt_RTGFB_Black)
+20:54:26 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Thor_MCB)
+20:55:10 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_AVS_Black)
+20:55:32 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Osprey_Black)
+20:56:6 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Gen4_Black)
+20:56:37 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (Shadow Com)
+20:56:55 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:56:57 | "Leonid Astapev" (steamid=76561199221059231) teleported to crosshair (pos=<9044.491211, 225.939560, 3735.173584>)
+20:56:58 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+20:58:56 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FieldPants_AOR1)
+20:59:7 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_UCP)
+21:0:31 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Crye_G3_Shirt_AOR1)
+21:0:31 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Crye_G3_Shirt_AOR2)
+21:0:42 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_L9Patagonia_AOR1)
+21:1:10 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_AOR1)
+21:1:30 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Belt_RTGFB_AOR1)
+21:2:0 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_GunGloves_Tan)
+21:2:22 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (MORPEX USMC)
+21:2:55 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_FASTMT_Tan)
+21:3:6 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_SF_Cover_AOR1)
+21:3:17 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FastMT_RAC_Tan)
+21:3:33 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FastMT_Mandable_Tan)
+21:3:55 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_HMTL_Light_Tan)
+21:4:23 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FC_Torus_BattPack_CB)
+21:4:32 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_AMP_MCBT)
+21:4:48 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_SF_Cover_MCA)
+21:5:16 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_CB)
+21:5:36 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Zypher_Boots_Tan_Socks)
+21:8:6 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (MORPEX USMC)
+21:8:12 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (MORPEX USMC)
+21:8:14 | (steamid=76561199221059231) Spawned preset: (MORPEX USMC)
+21:8:14 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (MORPEX USMC)
+21:8:47 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (ИЗраиль)
+21:12:31 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (ИЗраиль)
+21:12:41 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (Олива)
+21:13:40 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_M81)
+21:13:55 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_M81)
+21:13:55 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_M81)
+21:14:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_L9Patagonia_M81)
+21:14:12 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Crye_G3_Shirt_M81)
+21:14:20 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FerroGloves_M81)
+21:14:30 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Thor_M81)
+21:14:47 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_MMAC_M81)
+21:14:58 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_G3_Hoodie_M81)
+21:15:7 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+21:15:8 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+21:16:22 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Operator_Boots_RG)
+21:16:33 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_RG)
+21:16:54 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_COMTAC3_Headset_RG)
+21:17:23 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Osprey_M81)
+21:18:6 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (ИЗраиль)
+21:18:7 | (steamid=76561199221059231) Spawned preset: (ИЗраиль)
+21:18:7 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (ИЗраиль)
+21:18:14 | (steamid=76561199221059231) Spawned preset: (ИЗраиль)
+21:18:14 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (ИЗраиль)
+21:18:21 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (ИЗраиль)
+21:18:21 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (ИЗраиль)
+21:18:22 | (steamid=76561199221059231) Spawned preset: (ИЗраиль)
+21:18:22 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (ИЗраиль)
+21:19:50 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (Олива)
+21:19:51 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Олива has no parrent!
+21:19:52 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Олива)
+21:21:13 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (CB)
+21:21:23 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_CB)
+21:21:32 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_CB)
+21:21:45 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_UFP_Pants_CB)
+21:21:52 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_ButtonUp_CB)
+21:21:58 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Crye_G3_Shirt_CB)
+21:22:9 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Hooded_Parka_CB)
+21:22:20 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FerroGloves_CB)
+21:22:21 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FerroGloves_CB)
+21:22:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_UFJ_Shirt_CB)
+21:23:17 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (CB)
+21:23:18 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: CB has no parrent!
+21:23:18 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (CB)
+21:23:21 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: CB has no parrent!
+21:23:21 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (CB)
+21:23:49 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Comtac3_Headphones_CB_Velcro)
+21:24:10 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (BalaclavaMask_Beige)
+21:24:27 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_CB)
+21:24:32 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (CB)
+21:25:0 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (BEREZKA)
+21:25:25 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (BEREZKA)
+21:25:28 | (steamid=76561199221059231) Spawned preset: (BEREZKA)
+21:25:28 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (BEREZKA)
+21:25:29 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (BEREZKA)
+21:25:41 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (AOR2)
+21:25:47 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FieldPants_AOR2)
+21:25:52 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_AOR2)
+21:26:1 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Crye_G3_Shirt_AOR2)
+21:27:5 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Gen4_EMR)
+21:27:14 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Thor_EMR)
+21:27:31 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (AOR2)
+21:27:41 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (EMR)
+21:28:3 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FieldPants_RG)
+21:28:28 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Enhanced_PCU_RG)
+21:28:50 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Osprey_RG)
+21:29:9 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Operator_Boots_RG)
+21:29:19 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_RG)
+21:29:24 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_RGRattle)
+21:29:36 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_COMTAC3_Headset_RG)
+21:29:57 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FerroGloves_RG)
+21:30:4 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (EMR)
+21:30:10 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (RG)
+21:30:29 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Ghost_Mask_RG)
+21:30:32 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+21:30:33 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+21:31:14 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (EMR)
+21:31:15 | (steamid=76561199221059231) Spawned preset: (EMR)
+21:31:15 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (EMR)
+21:32:0 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (RG)
+21:32:1 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: RG has no parrent!
+21:32:1 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (RG)
+21:32:43 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (RG)
+21:32:46 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_RG)
+21:33:13 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: RG has no parrent!
+21:33:13 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (RG)
+21:33:20 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (FOG)
+21:33:35 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_FieldPants_Black)
+21:34:11 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_511_Shirt_Flanel_Black)
+21:35:16 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_GunGloves_Black)
+21:35:27 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Boonie_Black)
+21:35:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Fleececap_Black)
+21:35:44 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_M32_Headset_Black)
+21:35:51 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Watchcap_Black)
+21:36:10 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Zypher_Boots_Black_NoSocks)
+21:36:23 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Thor_Black)
+21:36:31 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Black Camo AKM)
+21:36:53 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Gorka_Pants_Black)
+21:36:58 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_MTF_Pants_Black)
+21:37:19 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Hoodie_Jacket_FOG)
+21:37:24 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Hoodie_Jacket_FOG)
+21:37:41 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Enhanced_PCU_Black)
+21:37:58 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_UFP_Pants_Black)
+21:39:1 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+21:39:1 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+21:39:26 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_AVONM53_Black)
+21:40:16 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Glasses_PitViper_Tropics)
+21:40:22 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Glasses_PitViper_Red)
+21:40:30 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Glasses_ESS_Black)
+21:41:57 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_511_Shirt_Flanel)
+21:42:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_511_Shirt_Flanel_Black)
+21:42:23 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_TV110T_Black)
+21:42:45 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_Mag_M4_PMAG30Rnd)
+21:43:3 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_M4A1)
+21:43:25 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_M4_DD9Hndgrd_RIS_FDE)
+21:43:32 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_M4_MagpulPRSGen3Bttstck_Black)
+21:43:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_M4_TDSPistolGrip)
+21:43:53 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_RVG_RIS_Grip_Black)
+21:44:18 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_DeltaPointOptic_Black)
+21:44:27 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_M4_DD12Hndgrd_RIS_FDE)
+21:44:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_SCAR_Suppressor_Black)
+21:44:45 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:44:50 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:44:54 | [WeatherManager] Send Data Count is 0
+21:44:57 | [Time Manager] Setting Date to 2025/9/29 4:50
+21:44:58 | [Time Manager] Setting Date to 2025/9/29 4:50
+21:44:59 | [Time Manager] Setting Date to 2025/9/29 8:50
+21:45:0 | [Time Manager] Setting Date to 2025/9/29 8:50
+21:45:11 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:45:14 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:45:15 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:45:30 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:34 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:39 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:42 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:46 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:48 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:56 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:58 | "Leonid Astapev" (steamid=76561199221059231) deleted objects using ESP
+21:45:59 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:46:1 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:46:4 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:46:9 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:46:37 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:47:19 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Pants_Crye_G3_DNC)
+21:47:32 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Enhanced_PCU_DNC)
+21:48:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Vest_Thor_EMR)
+21:48:15 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_M32_Headset_RG)
+21:48:24 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_OD)
+21:48:36 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_MICH2000_RG)
+21:48:43 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_ChemicalGrenade)
+21:49:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Helmet_FASTMT_AOR2)
+21:49:16 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Arcteryx_Balaclava_RG)
+21:49:37 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Comtac3_Headphones_RG_Velcro)
+21:49:52 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_Zypher_Boots_RG_Socks)
+21:50:11 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_GunGloves_RG)
+21:50:51 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (DPM)
+21:51:39 | "Leonid Astapev" (steamid=76561199221059231) deleted the preset: (DPM)
+21:51:49 | "Leonid Astapev" (steamid=76561199221059231) Created a new item preset: (DNC)
+21:54:28 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (DNC)
+21:54:28 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (DNC)
+21:54:29 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: DNC has no parrent!
+21:54:29 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (DNC)
+21:55:25 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (DNC)
+21:55:25 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (DNC)
+21:57:6 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Shadow Com has no parrent!
+21:57:6 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Shadow Com)
+21:57:13 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Олива has no parrent!
+21:57:13 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Олива)
+21:57:18 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: CB has no parrent!
+21:57:18 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (CB)
+21:57:23 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: RG has no parrent!
+21:57:23 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (RG)
+21:57:27 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: FOG has no parrent!
+21:57:27 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (FOG)
+21:57:34 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: DNC has no parrent!
+21:57:34 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (DNC)
+21:58:32 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Олива has no parrent!
+21:58:32 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Олива)
+21:58:39 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: RG has no parrent!
+21:58:39 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (RG)
+21:58:58 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:59:13 | "Leonid Astapev" (steamid=76561199221059231) teleported to crosshair (pos=<9050.010742, 225.697266, 3736.137695>)
+21:59:14 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+21:59:21 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Shadow Com has no parrent!
+21:59:21 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Shadow Com)
+21:59:30 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Олива has no parrent!
+21:59:30 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (Олива)
+21:59:37 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: CB has no parrent!
+21:59:37 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (CB)
+21:59:45 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: RG has no parrent!
+21:59:45 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (RG)
+21:59:51 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: FOG has no parrent!
+21:59:51 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (FOG)
+21:59:55 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: FOG has no parrent!
+21:59:55 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (FOG)
+22:0:9 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:0:16 | "Leonid Astapev" (steamid=76561199221059231) teleported to crosshair (pos=<9035.878906, 227.622391, 3750.880371>)
+22:0:17 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:0:27 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: DNC has no parrent!
+22:0:27 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (DNC)
+22:1:46 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (FOG_M32_Headset_Black)
+22:2:13 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (FOG)
+22:2:55 | "Leonid Astapev" (steamid=76561199221059231) edited preset: (FOG)
+22:2:56 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: FOG has no parrent!
+22:2:56 | "Leonid Astapev" (steamid=76561199221059231) spawned preset: (FOG)
+22:3:18 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:3:46 | "Leonid Astapev" (steamid=76561199221059231) teleported to crosshair (pos=<7629.079590, 214.280090, 5176.837891>)
+22:4:26 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:5:0 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_PKP)
+22:5:2 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_PKP_PlasticBttstck)
+22:5:3 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_PKP_Bipod)
+22:5:10 | "Leonid Astapev" (steamid=76561199221059231) Spawned Item: (TF_Mag_PKM_100Rnd)
+22:5:30 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:5:33 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+22:5:35 | "Leonid Astapev" (steamid=76561199221059231) toggled godmode
+22:5:37 | "Leonid Astapev" (steamid=76561199221059231) toggled freecam
+22:15:14 | Player "Leonid Astapev" (steamId=76561199221059231) initiated disconnect process...
+22:15:26 | Player "Leonid Astapev" (steamId=76561199221059231) disconnected early from server (EXIT NOW).
+22:15:30 | Player "Leonid Astapev" (steamId=76561199221059231) disconnected from server.

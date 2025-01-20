@@ -1,0 +1,24 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods);@DeathMatch" -profiles=profiles "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye"
+=====================================================================
+Exe timestamp: 2025/01/19 22:17:47
+Current time:  2025/01/20 02:14:18
+Version 1.26.159040
+=====================================================================
+
+ 2:14:18.194 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:14:18.207 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:14:18.208 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 2:14:18.208 [Inputs] Loading inputs default "script_a/Inputs.xml"
+ 2:14:18.208 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 2:14:18.209 [Inputs] Loading inputs default "DeathMatch/Inputs/inputs.xml"
+ 2:14:18.209 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 2:14:18.209 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 2:14:18.209 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 2:14:18.209 [Inputs] Loading inputs cfg "bin/core.xml"
+ 2:14:18.209 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 2:14:18.211 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 2:14:43.345 Hostname of server: "EXAMPLE NAME"
+ 2:15:07.133 Player connect enabled
+ 2:18:05.650  --- Termination successfully completed --- 

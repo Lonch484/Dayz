@@ -1,0 +1,1443 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods)" -profiles=profiles "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye"
+=====================================================================
+Exe timestamp: 2025/01/19 22:17:47
+Current time:  2025/01/19 23:41:59
+Version 1.26.159040
+=====================================================================
+
+23:41:59.422 [Inputs] Loading inputs default "bin/constants.xml"
+23:41:59.427 [Inputs] Loading inputs default "bin/specific.xml"
+23:41:59.428 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+23:41:59.428 [Inputs] Loading inputs default "script_a/Inputs.xml"
+23:41:59.428 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+23:41:59.429 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+23:41:59.430 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+23:41:59.430 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+23:41:59.430 [Inputs] Loading inputs cfg "bin/core.xml"
+23:41:59.430 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+23:41:59.432 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+23:42:17.310 Hostname of server: "EXAMPLE NAME"
+23:42:44.131 [CE][Hive] :: Initializing OFFLINE
+23:42:44.132 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\
+23:42:44.132 [CE][Hive] :: Loading core data ... 
+23:42:44.185 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+23:42:59.290 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+23:42:59.293 [CE][TypeSetup] :: 553 classes setuped...
+23:43:04.808 [CE][RegisterBind] :: 0 classes binded...
+23:43:04.809 [CE][RegisterConfig] :: 13408 config classes registered, 0 sub-counters...
+23:43:04.809 [CE][Hive] :: Loading map data ... 
+23:43:04.820 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+23:43:04.931 [CE][LoadPrototype] :: loaded 426 prototypes
+23:43:04.931   822 containers, 10876 points
+23:43:04.931   71 dispatches, 250 proxies
+23:43:04.931 !!! [CE][LoadPrototype] 5 groups have no points...
+23:43:04.931 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+23:43:04.953 [CE][LoadPrototype] :: loaded 0 prototypes
+23:43:04.953   55 containers, 232 points
+23:43:04.953   0 dispatches, 0 proxies
+23:43:04.953 [CE][LoadPrototype] :: last group name: Rail9...
+23:43:06.142 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+23:43:06.147 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+23:43:06.626 [CE][Links] found 1950 total links between groups, of 11680
+23:43:06.626 [CE][LoadClusters] "Cluster" :: Loading files...
+23:43:06.863 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+23:43:07.152 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+23:43:07.503 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+23:43:07.769 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+23:43:07.861 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+23:43:07.883 [CE][Storage] ver:21 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+23:43:07.896 [CE][Storage] ver:21 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+23:43:07.899 [CE][Storage] ver:21 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+23:43:07.899 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+23:43:08.129 !!! [CE][offlineDB] :: No Shutdown message present.
+23:43:08.140 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+23:43:08.280 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+23:43:08.281 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+23:43:08.808 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+23:43:08.809 [CE][DE][SPAWNS] :: Total positions: 1038
+23:43:08.809 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+23:43:08.820 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+23:43:08.827 [CE][Storage] ver:25 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+23:43:08.833 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+23:43:08.833 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+23:43:08.833 [CE][DynamicEvent] Load  Events:[50] Primary spawners: 50 Secondary spawners: 4
+23:43:08.850 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+23:43:08.852 [CE][Storage] ver:25 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+23:43:08.855 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+23:43:08.855 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 898 items.
+23:43:10.81   898 items loaded. (0 failed)
+23:43:10.105 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+23:43:10.125 [CE][Storage] ver:25 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+23:43:10.126 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+23:43:10.126 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1782 items.
+23:43:11.995   1782 items loaded. (0 failed)
+23:43:12.08 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+23:43:12.22 !!! [CE][Storage] Failed to read [Storage] data file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001".
+23:43:12.22   File not closed...
+23:43:12.22 [CE][Storage] ver:25 stamp:117, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+23:43:12.37 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+23:43:12.37 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2460 items.
+23:43:14.286   2460 items loaded. (0 failed)
+23:43:14.295 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+23:43:14.314 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+23:43:14.331 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+23:43:14.331 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2028 items.
+23:43:16.134   2028 items loaded. (0 failed)
+23:43:16.146 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+23:43:16.163 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+23:43:16.164 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+23:43:16.164 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1794 items.
+23:43:17.925   1794 items loaded. (0 failed)
+23:43:17.940 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+23:43:17.953 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+23:43:17.970 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+23:43:17.970 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2167 items.
+23:43:20.459   2167 items loaded. (0 failed)
+23:43:20.459 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+23:43:20.476 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+23:43:20.483 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+23:43:20.483 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1482 items.
+23:43:24.480   1482 items loaded. (0 failed)
+23:43:24.492 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+23:43:24.496 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+23:43:24.509 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+23:43:24.510 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1491 items.
+23:43:26.592   1491 items loaded. (0 failed)
+23:43:26.607 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+23:43:26.620 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+23:43:26.621 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+23:43:26.621 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2177 items.
+23:43:28.923   2177 items loaded. (0 failed)
+23:43:28.928 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+23:43:28.932 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+23:43:28.936 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+23:43:28.936 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2705 items.
+23:43:31.747   2705 items loaded. (0 failed)
+23:43:31.767 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+23:43:31.781 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+23:43:31.799 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+23:43:31.799 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1748 items.
+23:43:33.732   1748 items loaded. (0 failed)
+23:43:33.739 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+23:43:33.747 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+23:43:33.754 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+23:43:33.754 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 163 items.
+23:43:33.920   163 items loaded. (0 failed)
+23:43:33.920 [CE][Storage] ver:26 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+23:43:33.920 [CE][Storage] ver:26 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+23:43:33.921 [CE][Storage] ver:26 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+23:43:33.921 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 0 items.
+23:43:33.921   0 items loaded. (0 failed)
+23:43:33.930 [CE][Storage] ver:25 stamp:117, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+23:43:33.947 [CE][Storage] ver:25 stamp:114, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+23:43:33.967 [CE][Storage] ver:25 stamp:115, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+23:43:33.967 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 253 items.
+23:43:35.331   253 items loaded. (0 failed)
+23:43:35.350 [CE][Hive] :: Storage load took:26.52 seconds, recovery stamp:117
+23:43:35.350   entity: 22643, building: 0
+23:43:35.351   no lifetime: 64
+23:43:35.351   pathgraph's: 542
+23:43:35.351 [CE][Hive] :: Initializing ... 
+23:43:35.459 [CE][InitializeMap] :: initialized: 0
+23:43:35.459 [CE][Hive] :: Initializing spawners ... 
+23:43:38.210 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:20645, Total in Map: 21064 at 0 (sec)
+23:43:38.210   tests:0, repeats:0 fails:0, overtime:0
+23:43:38.215 [CE][DynEvent] :: 50 types
+23:43:38.215 [00] AmbientFox
+23:43:38.215   Primary Spawner: "Ambient", active: yes, repeat: 1
+23:43:38.215 [01] AmbientHare
+23:43:38.215   Primary Spawner: "Ambient", active: yes, repeat: 1
+23:43:38.215 [02] AmbientHen
+23:43:38.215   Primary Spawner: "Ambient", active: yes, repeat: 1
+23:43:38.215 [03] AnimalBear
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [04] AnimalCow
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [05] AnimalDeer
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [06] AnimalGoat
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [07] AnimalPig
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [08] AnimalRoeDeer
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [09] AnimalSheep
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [10] AnimalWildBoar
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [11] AnimalWolf
+23:43:38.215   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:38.215 [12] InfectedArmy
+23:43:38.215   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.215 [13] InfectedArmyHard
+23:43:38.215   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.215 [14] InfectedCity
+23:43:38.215   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.215 [15] InfectedCityTier1
+23:43:38.215   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [16] InfectedFirefighter
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [17] InfectedIndustrial
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [18] InfectedMedic
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [19] InfectedNBC
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [20] InfectedPolice
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [21] InfectedPoliceHard
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [22] InfectedPrisoner
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [23] InfectedReligious
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [24] InfectedSanta
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [25] InfectedSolitude
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [26] InfectedVillage
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [27] InfectedVillageTier1
+23:43:38.216   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [28] ItemPlanks
+23:43:38.216   Primary Spawner: "Item", active: yes, repeat: 1
+23:43:38.216 [29] Loot
+23:43:38.216   Primary Spawner: "Loot", active: yes, repeat: 2
+23:43:38.216 [30] StaticAirplaneCrate
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216 [31] StaticContaminatedArea
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216 [32] StaticHeliCrash
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [33] StaticMilitaryConvoy
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [34] StaticPoliceSituation
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [35] StaticTrain
+23:43:38.216   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:38.216   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:43:38.216 [36] TrajectoryApple
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [37] TrajectoryConiferous
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [38] TrajectoryDeciduous
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [39] TrajectoryHumus
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [40] TrajectoryPear
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [41] TrajectoryPlum
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [42] TrajectoryStones
+23:43:38.216   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:38.216 [43] VehicleBoat
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [44] VehicleCivilianSedan
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [45] VehicleHatchback02
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [46] VehicleOffroad02
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [47] VehicleOffroadHatchback
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [48] VehicleSedan02
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [49] VehicleTruck01
+23:43:38.216   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:38.216 [CE][Hive] :: Initializing of spawners done.
+23:43:38.232 [CE][Hive] :: Init sequence finished.
+23:43:38.232 Player connect enabled
+23:43:38.717 [Login]: Adding player Leonid Astapev (355978709) to login queue at position 0
+23:43:38.717 [LoginMachine]: Add player Leonid Astapev (355978709 26.114.104.113:51015)
+23:43:38.717 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid ) Entering AuthPlayerLoginState
+23:43:39.485 [IdleMode] Entering IN - save processed
+23:43:40.27 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid ) Entering WaitAuthPlayerLoginState
+23:43:41.638 [IdleMode] Leaving OUT
+23:43:45.592 –ü–æ–¥–∫–ª—é—á–∏–ª—Å—è –∏–≥—Ä–æ–∫ Leonid Astapev (id=kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=).
+23:43:45.592 Player "Leonid Astapev"(steamID=76561199221059231) is connected
+23:43:45.592 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid ) Entering WaitPlayerAssignedLoginState
+23:43:48.267 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid ) Entering PlayerAssignedLoginState
+23:43:48.304 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetLoginTimeLoginState
+23:43:48.333 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBWaitLoginTimeLoginState
+23:44:03.333 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetCharacterLoginState
+23:44:03.334 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering CreateNetObjectsLoginState
+23:44:03.339 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering PreloadCamLoginState
+23:44:03.339 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering WaitPreloadCamLoginState
+23:44:04.518 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "M79"
+23:44:21.76 [StateMachine]: Player Leonid Astapev (dpnid 355978709 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering GetLoadedCharLoginState
+23:44:38.705 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 355978709
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+23:44:49.508 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "M79"
+23:44:52.884 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+23:45:16.698 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "M79"
+23:45:20.616 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+23:45:44.278 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "M79"
+23:46:11.828 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "M79"
+23:46:16.123 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+23:46:40.202 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "M79"
+23:47:07.557 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "M79"
+23:47:34.617 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "M79"
+23:48:01.668 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "M79"
+23:48:03.775 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+23:48:29.98 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "M79"
+23:48:56.722 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "M79"
+23:49:24.129 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "M79"
+23:49:27.147 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+23:49:51.193 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "M79"
+23:50:18.294 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "M79"
+23:50:45.400 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "M79"
+23:50:49.317 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+23:51:12.531 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "M79"
+23:51:39.543 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "M79"
+23:52:06.683 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "M79"
+23:52:11.512 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+23:52:33.771 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "M79"
+23:53:01.249 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "M79"
+23:53:28.297 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "M79"
+23:53:55.376 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "M79"
+23:53:58.103 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+23:54:22.411 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "M79"
+23:54:49.548 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "M79"
+23:55:16.680 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "M79"
+23:55:20.308 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+23:55:44.44 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "M79"
+23:56:11.150 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "M79"
+23:56:38.556 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "M79"
+23:56:43.74 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+23:57:05.717 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "M79"
+23:57:34.982 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "M79"
+23:58:05.773 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "M79"
+23:58:33.780 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "M79"
+23:58:36.178 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+23:59:00.994 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "M79"
+23:59:28.53 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "M79"
+23:59:55.170 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "M79"
+23:59:58.509 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:00:22.380 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "M79"
+ 0:00:49.673 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "M79"
+ 0:01:16.849 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "M79"
+ 0:01:21.78 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:01:43.954 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "M79"
+ 0:02:11.172 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "M79"
+ 0:02:38.493 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "M79"
+ 0:03:05.854 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "M79"
+ 0:03:07.963 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:03:32.960 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "M79"
+ 0:04:00.72 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "M79"
+ 0:04:27.238 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "M79"
+ 0:04:30.246 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:04:54.272 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "M79"
+ 0:05:21.340 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "M79"
+ 0:05:48.536 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "M79"
+ 0:05:52.504 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:06:15.703 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "M79"
+ 0:06:42.833 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "M79"
+ 0:07:10.34 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "M79"
+ 0:07:14.846 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:07:37.630 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "M79"
+ 0:08:04.677 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "M79"
+ 0:08:32.37 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "M79"
+ 0:08:59.249 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "M79"
+ 0:09:01.978 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:09:26.836 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "M79"
+ 0:09:54.434 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "M79"
+ 0:10:21.779 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "M79"
+ 0:10:25.124 [CE][Links] found 0 total links between groups, of 1
+ 0:10:25.124 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:10:25.124 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.124 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:10:25.136 [CE][Links] found 0 total links between groups, of 2
+ 0:10:25.137 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 0:10:25.137 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.162 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 0:10:25.177 [CE][Links] found 0 total links between groups, of 3
+ 0:10:25.177 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:10:25.177 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.177 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:10:25.255 [CE][Links] found 0 total links between groups, of 4
+ 0:10:25.255 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 0:10:25.255 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.256 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 0:10:25.258 [CE][Links] found 0 total links between groups, of 5
+ 0:10:25.258 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:10:25.258 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.258 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:10:25.260 [CE][Links] found 2 total links between groups, of 6
+ 0:10:25.260 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:10:25.260 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.260 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:10:25.262 [CE][Links] found 2 total links between groups, of 7
+ 0:10:25.262 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 0:10:25.263 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.263 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 0:10:25.343 [CE][Links] found 2 total links between groups, of 8
+ 0:10:25.343 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 0:10:25.343 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.343 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 0:10:25.352 [CE][Links] found 4 total links between groups, of 9
+ 0:10:25.352 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:10:25.352 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:10:25.352 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:10:25.587 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:10:26.326 [CE][Links] found 4 total links between groups, of 10
+ 0:10:26.326 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.420 [CE][Links] found 4 total links between groups, of 11
+ 0:10:26.420 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.423 [CE][Links] found 4 total links between groups, of 12
+ 0:10:26.423 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.445 [CE][Links] found 4 total links between groups, of 13
+ 0:10:26.445 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.459 [CE][Links] found 4 total links between groups, of 14
+ 0:10:26.459 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.500 [CE][Links] found 4 total links between groups, of 15
+ 0:10:26.500 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.587 [CE][Links] found 4 total links between groups, of 16
+ 0:10:26.587 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.605 [CE][Links] found 4 total links between groups, of 17
+ 0:10:26.605 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.611 [CE][Links] found 4 total links between groups, of 18
+ 0:10:26.611 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.635 [CE][Links] found 4 total links between groups, of 19
+ 0:10:26.635 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.639 [CE][Links] found 4 total links between groups, of 20
+ 0:10:26.639 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.653 [CE][Links] found 4 total links between groups, of 21
+ 0:10:26.653 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:26.664 [CE][Links] found 6 total links between groups, of 22
+ 0:10:26.664 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:26.696 [CE][Links] found 6 total links between groups, of 23
+ 0:10:26.696 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:27.39 [CE][Links] found 6 total links between groups, of 24
+ 0:10:27.39 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.43 [CE][Links] found 6 total links between groups, of 25
+ 0:10:27.43 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.89 [CE][Links] found 6 total links between groups, of 26
+ 0:10:27.89 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Trailer_Closed_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:27.133 [CE][Links] found 6 total links between groups, of 27
+ 0:10:27.133 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.147 [CE][Links] found 8 total links between groups, of 28
+ 0:10:27.147 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Tractor_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:27.153 [CE][Links] found 8 total links between groups, of 29
+ 0:10:27.153 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.170 [CE][Links] found 8 total links between groups, of 30
+ 0:10:27.170 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.179 [CE][Links] found 8 total links between groups, of 31
+ 0:10:27.179 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.183 [CE][Links] found 8 total links between groups, of 32
+ 0:10:27.183 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 0:10:27.213 [CE][Links] found 8 total links between groups, of 33
+ 0:10:27.213 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.221 [CE][Links] found 8 total links between groups, of 34
+ 0:10:27.221 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.226 [CE][Links] found 8 total links between groups, of 35
+ 0:10:27.226 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.250 [CE][Links] found 8 total links between groups, of 36
+ 0:10:27.250 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.294 [CE][Links] found 8 total links between groups, of 37
+ 0:10:27.294 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.308 [CE][Links] found 8 total links between groups, of 38
+ 0:10:27.308 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:27.335 [CE][Links] found 8 total links between groups, of 39
+ 0:10:27.335 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:10:27.339 [CE][Links] found 8 total links between groups, of 40
+ 0:10:27.339 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:10:27.342 [CE][Links] found 8 total links between groups, of 41
+ 0:10:27.342 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:10:50.206 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "M79"
+ 0:11:17.403 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "M79"
+ 0:11:44.429 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "M79"
+ 0:11:48.935 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:12:11.593 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "M79"
+ 0:12:38.585 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "M79"
+ 0:13:05.677 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "M79"
+ 0:13:32.805 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "M79"
+ 0:13:35.208 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:13:59.857 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "M79"
+ 0:14:26.973 [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "M79"
+ 0:14:54.97 [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "M79"
+ 0:14:57.407 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:15:21.281 [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "M79"
+ 0:15:48.224 [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "M79"
+ 0:16:15.191 [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "M79"
+ 0:16:19.405 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:16:19.718 [CE][Links] found 8 total links between groups, of 42
+ 0:16:19.718 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+ 0:16:19.801 [CE][Links] found 8 total links between groups, of 43
+ 0:16:19.801 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+ 0:16:19.904 [CE][Links] found 8 total links between groups, of 44
+ 0:16:19.904 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+ 0:16:42.656 [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "M79"
+ 0:17:09.692 [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "M79"
+ 0:17:36.776 [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "M79"
+ 0:18:03.760 [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "M79"
+ 0:18:05.863 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:18:31.187 [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "M79"
+ 0:18:58.201 [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "M79"
+ 0:19:25.186 [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "M79"
+ 0:19:28.191 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:19:52.349 [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "M79"
+ 0:20:19.417 [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "M79"
+ 0:20:47.730 [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "M79"
+ 0:20:51.660 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:21:14.910 [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "M79"
+ 0:21:42.69 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "M79"
+ 0:22:09.473 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "M79"
+ 0:22:14.292 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:22:36.501 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "M79"
+ 0:23:03.736 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "M79"
+ 0:23:30.920 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "M79"
+ 0:23:58.124 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "M79"
+ 0:24:00.870 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:24:25.232 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "M79"
+ 0:24:52.478 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "M79"
+ 0:25:19.626 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "M79"
+ 0:25:23.249 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:25:46.998 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "M79"
+ 0:26:14.257 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "M79"
+ 0:26:41.425 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "M79"
+ 0:26:45.951 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:27:08.550 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "M79"
+ 0:27:35.667 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "M79"
+ 0:28:02.851 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "M79"
+ 0:28:29.920 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "M79"
+ 0:28:32.338 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:28:56.963 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "M79"
+ 0:29:24.199 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "M79"
+ 0:29:51.426 [CE][LootRespawner] (PRIDummy) :: Item [100] causing search overtime: "M79"
+ 0:29:54.744 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:30:18.778 [CE][LootRespawner] (PRIDummy) :: Item [101] causing search overtime: "M79"
+ 0:30:46.80 [CE][LootRespawner] (PRIDummy) :: Item [102] causing search overtime: "M79"
+ 0:31:13.231 [CE][LootRespawner] (PRIDummy) :: Item [103] causing search overtime: "M79"
+ 0:31:17.466 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:31:40.255 [CE][LootRespawner] (PRIDummy) :: Item [104] causing search overtime: "M79"
+ 0:32:07.300 [CE][LootRespawner] (PRIDummy) :: Item [105] causing search overtime: "M79"
+ 0:32:34.308 [CE][LootRespawner] (PRIDummy) :: Item [106] causing search overtime: "M79"
+ 0:33:01.433 [CE][LootRespawner] (PRIDummy) :: Item [107] causing search overtime: "M79"
+ 0:33:03.545 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:33:28.757 [CE][LootRespawner] (PRIDummy) :: Item [108] causing search overtime: "M79"
+ 0:33:56.26 [CE][LootRespawner] (PRIDummy) :: Item [109] causing search overtime: "M79"
+ 0:34:23.387 [CE][LootRespawner] (PRIDummy) :: Item [110] causing search overtime: "M79"
+ 0:34:26.490 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:34:50.558 [CE][LootRespawner] (PRIDummy) :: Item [111] causing search overtime: "M79"
+ 0:35:17.885 [CE][LootRespawner] (PRIDummy) :: Item [112] causing search overtime: "M79"
+ 0:35:44.981 [CE][LootRespawner] (PRIDummy) :: Item [113] causing search overtime: "M79"
+ 0:35:48.897 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:36:12.316 [CE][LootRespawner] (PRIDummy) :: Item [114] causing search overtime: "M79"
+ 0:36:39.659 [CE][LootRespawner] (PRIDummy) :: Item [115] causing search overtime: "M79"
+ 0:37:06.906 [CE][LootRespawner] (PRIDummy) :: Item [116] causing search overtime: "M79"
+ 0:37:11.734 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:37:34.11 [CE][LootRespawner] (PRIDummy) :: Item [117] causing search overtime: "M79"
+ 0:38:01.200 [CE][LootRespawner] (PRIDummy) :: Item [118] causing search overtime: "M79"
+ 0:38:28.331 [CE][LootRespawner] (PRIDummy) :: Item [119] causing search overtime: "M79"
+ 0:38:55.481 [CE][LootRespawner] (PRIDummy) :: Item [120] causing search overtime: "M79"
+ 0:38:58.200 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:39:22.966 [CE][LootRespawner] (PRIDummy) :: Item [121] causing search overtime: "M79"
+ 0:39:50.150 [CE][LootRespawner] (PRIDummy) :: Item [122] causing search overtime: "M79"
+ 0:40:17.343 [CE][LootRespawner] (PRIDummy) :: Item [123] causing search overtime: "M79"
+ 0:40:20.969 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:40:45.46 [CE][LootRespawner] (PRIDummy) :: Item [124] causing search overtime: "M79"
+ 0:41:12.813 [CE][LootRespawner] (PRIDummy) :: Item [125] causing search overtime: "M79"
+ 0:41:40.15 [CE][LootRespawner] (PRIDummy) :: Item [126] causing search overtime: "M79"
+ 0:41:44.259 [CE][Links] found 8 total links between groups, of 45
+ 0:41:44.259 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 0:41:44.259 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.259 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 0:41:44.291 [CE][Links] found 8 total links between groups, of 46
+ 0:41:44.291 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:41:44.291 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.291 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:41:44.306 [CE][Links] found 10 total links between groups, of 47
+ 0:41:44.306 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:41:44.306 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.306 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:41:44.309 [CE][Links] found 10 total links between groups, of 48
+ 0:41:44.309 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 0:41:44.309 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.309 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 0:41:44.324 [CE][Links] found 12 total links between groups, of 49
+ 0:41:44.324 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 0:41:44.324 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.324 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 0:41:44.334 [CE][Links] found 14 total links between groups, of 50
+ 0:41:44.334 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:41:44.334 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.334 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:41:44.340 [CE][Links] found 18 total links between groups, of 51
+ 0:41:44.340 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:41:44.340 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.340 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:41:44.370 [CE][Links] found 20 total links between groups, of 52
+ 0:41:44.370 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 0:41:44.370 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.382 [CE][Links] found 22 total links between groups, of 53
+ 0:41:44.382 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 0:41:44.382 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 0:41:44.382 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 0:41:44.596 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:42:07.342 [CE][LootRespawner] (PRIDummy) :: Item [127] causing search overtime: "M79"
+ 0:42:09.470 [CE][Links] found 22 total links between groups, of 54
+ 0:42:09.470 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.568 [CE][Links] found 22 total links between groups, of 55
+ 0:42:09.568 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.582 [CE][Links] found 22 total links between groups, of 56
+ 0:42:09.582 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.753 [CE][Links] found 22 total links between groups, of 57
+ 0:42:09.753 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.781 [CE][Links] found 22 total links between groups, of 58
+ 0:42:09.781 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.798 [CE][Links] found 22 total links between groups, of 59
+ 0:42:09.798 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.836 [CE][Links] found 22 total links between groups, of 60
+ 0:42:09.836 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.856 [CE][Links] found 22 total links between groups, of 61
+ 0:42:09.856 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.878 [CE][Links] found 24 total links between groups, of 62
+ 0:42:09.878 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.936 [CE][Links] found 24 total links between groups, of 63
+ 0:42:09.936 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.939 [CE][Links] found 24 total links between groups, of 64
+ 0:42:09.939 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:09.944 [CE][Links] found 24 total links between groups, of 65
+ 0:42:09.944 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.27 [CE][Links] found 24 total links between groups, of 66
+ 0:42:10.27 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.31 [CE][Links] found 24 total links between groups, of 67
+ 0:42:10.31 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.38 [CE][Links] found 24 total links between groups, of 68
+ 0:42:10.38 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.107 [CE][Links] found 24 total links between groups, of 69
+ 0:42:10.107 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.121 [CE][Links] found 24 total links between groups, of 70
+ 0:42:10.121 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.244 [CE][Links] found 24 total links between groups, of 71
+ 0:42:10.244 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.310 [CE][Links] found 24 total links between groups, of 72
+ 0:42:10.310 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.382 [CE][Links] found 24 total links between groups, of 73
+ 0:42:10.382 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.387 [CE][Links] found 26 total links between groups, of 74
+ 0:42:10.387 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.389 [CE][Links] found 26 total links between groups, of 75
+ 0:42:10.389 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.417 [CE][Links] found 26 total links between groups, of 76
+ 0:42:10.417 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:10.460 [CE][Links] found 26 total links between groups, of 77
+ 0:42:10.460 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.476 [CE][Links] found 26 total links between groups, of 78
+ 0:42:10.476 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.493 [CE][Links] found 26 total links between groups, of 79
+ 0:42:10.493 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.497 [CE][Links] found 26 total links between groups, of 80
+ 0:42:10.497 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:10.920 [CE][Links] found 28 total links between groups, of 81
+ 0:42:10.920 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:10.947 [CE][Links] found 30 total links between groups, of 82
+ 0:42:10.947 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:10.963 [CE][Links] found 32 total links between groups, of 83
+ 0:42:10.963 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:11.93 [CE][Links] found 32 total links between groups, of 84
+ 0:42:11.93 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:11.109 [CE][Links] found 32 total links between groups, of 85
+ 0:42:11.109 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:11.120 [CE][Links] found 32 total links between groups, of 86
+ 0:42:11.120 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 0:42:11.147 [CE][Links] found 34 total links between groups, of 87
+ 0:42:11.147 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 0:42:11.148 [CE][Links] found 36 total links between groups, of 88
+ 0:42:11.148 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:11.160 [CE][Links] found 38 total links between groups, of 89
+ 0:42:11.160 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 0:42:11.227 [CE][Links] found 38 total links between groups, of 90
+ 0:42:11.227 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:11.340 [CE][Links] found 40 total links between groups, of 91
+ 0:42:11.340 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:11.348 [CE][Links] found 40 total links between groups, of 92
+ 0:42:11.348 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 0:42:11.370 [CE][Links] found 40 total links between groups, of 93
+ 0:42:11.370 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 0:42:11.536 [CE][Links] found 40 total links between groups, of 94
+ 0:42:11.536 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:11.620 [CE][Links] found 42 total links between groups, of 95
+ 0:42:11.620 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_green_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 0:42:36.830 [CE][LootRespawner] (PRIDummy) :: Item [128] causing search overtime: "M79"
+ 0:43:04.442 [CE][LootRespawner] (PRIDummy) :: Item [129] causing search overtime: "M79"
+ 0:43:31.816 [CE][LootRespawner] (PRIDummy) :: Item [130] causing search overtime: "M79"
+ 0:43:34.289 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:43:59.168 [CE][LootRespawner] (PRIDummy) :: Item [131] causing search overtime: "M79"
+ 0:44:26.273 [CE][LootRespawner] (PRIDummy) :: Item [132] causing search overtime: "M79"
+ 0:44:53.550 [CE][LootRespawner] (PRIDummy) :: Item [133] causing search overtime: "M79"
+ 0:44:56.873 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:45:22.74 [CE][LootRespawner] (PRIDummy) :: Item [134] causing search overtime: "M79"
+ 0:45:49.79 [CE][LootRespawner] (PRIDummy) :: Item [135] causing search overtime: "M79"
+ 0:46:16.351 [CE][LootRespawner] (PRIDummy) :: Item [136] causing search overtime: "M79"
+ 0:46:20.645 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:46:43.838 [CE][LootRespawner] (PRIDummy) :: Item [137] causing search overtime: "M79"
+ 0:47:11.590 [CE][LootRespawner] (PRIDummy) :: Item [138] causing search overtime: "M79"
+ 0:47:38.645 [CE][LootRespawner] (PRIDummy) :: Item [139] causing search overtime: "M79"
+ 0:48:05.701 [CE][LootRespawner] (PRIDummy) :: Item [140] causing search overtime: "M79"
+ 0:48:07.829 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:48:32.732 [CE][LootRespawner] (PRIDummy) :: Item [141] causing search overtime: "M79"
+ 0:48:59.752 [CE][LootRespawner] (PRIDummy) :: Item [142] causing search overtime: "M79"
+ 0:49:26.872 [CE][LootRespawner] (PRIDummy) :: Item [143] causing search overtime: "M79"
+ 0:49:29.892 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:49:53.978 [CE][LootRespawner] (PRIDummy) :: Item [144] causing search overtime: "M79"
+ 0:50:21.32 [CE][LootRespawner] (PRIDummy) :: Item [145] causing search overtime: "M79"
+ 0:50:48.126 [CE][LootRespawner] (PRIDummy) :: Item [146] causing search overtime: "M79"
+ 0:50:52.55 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:51:15.433 [CE][LootRespawner] (PRIDummy) :: Item [147] causing search overtime: "M79"
+ 0:51:42.976 [CE][LootRespawner] (PRIDummy) :: Item [148] causing search overtime: "M79"
+ 0:52:10.57 [CE][LootRespawner] (PRIDummy) :: Item [149] causing search overtime: "M79"
+ 0:52:14.893 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 0:52:37.221 [CE][LootRespawner] (PRIDummy) :: Item [150] causing search overtime: "M79"
+ 0:52:39.333 [CE][Links] found 42 total links between groups, of 96
+ 0:52:39.333 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+ 0:52:39.435 [CE][Links] found 42 total links between groups, of 97
+ 0:52:39.436 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+ 0:53:04.959 [CE][LootRespawner] (PRIDummy) :: Item [151] causing search overtime: "M79"
+ 0:53:31.997 [CE][LootRespawner] (PRIDummy) :: Item [152] causing search overtime: "M79"
+ 0:53:59.388 [CE][LootRespawner] (PRIDummy) :: Item [153] causing search overtime: "M79"
+ 0:54:02.100 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 0:54:02.467 [CE][Links] found 42 total links between groups, of 98
+ 0:54:02.467 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+ 0:54:26.771 [CE][LootRespawner] (PRIDummy) :: Item [154] causing search overtime: "M79"
+ 0:54:53.910 [CE][LootRespawner] (PRIDummy) :: Item [155] causing search overtime: "M79"
+ 0:55:21.12 [CE][LootRespawner] (PRIDummy) :: Item [156] causing search overtime: "M79"
+ 0:55:24.626 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:55:48.934 [CE][LootRespawner] (PRIDummy) :: Item [157] causing search overtime: "M79"
+ 0:56:16.863 [CE][LootRespawner] (PRIDummy) :: Item [158] causing search overtime: "M79"
+ 0:56:44.275 [CE][LootRespawner] (PRIDummy) :: Item [159] causing search overtime: "M79"
+ 0:56:49.63 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 0:57:11.675 [CE][LootRespawner] (PRIDummy) :: Item [160] causing search overtime: "M79"
+ 0:57:38.742 [CE][LootRespawner] (PRIDummy) :: Item [161] causing search overtime: "M79"
+ 0:58:05.894 [CE][LootRespawner] (PRIDummy) :: Item [162] causing search overtime: "M79"
+ 0:58:33.327 [CE][LootRespawner] (PRIDummy) :: Item [163] causing search overtime: "M79"
+ 0:58:35.731 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 0:59:00.337 [CE][LootRespawner] (PRIDummy) :: Item [164] causing search overtime: "M79"
+ 0:59:27.633 [CE][LootRespawner] (PRIDummy) :: Item [165] causing search overtime: "M79"
+ 0:59:54.871 [CE][LootRespawner] (PRIDummy) :: Item [166] causing search overtime: "M79"
+ 0:59:58.182 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 1:00:21.990 [CE][LootRespawner] (PRIDummy) :: Item [167] causing search overtime: "M79"
+ 1:00:49.110 [CE][LootRespawner] (PRIDummy) :: Item [168] causing search overtime: "M79"
+ 1:01:16.179 [CE][LootRespawner] (PRIDummy) :: Item [169] causing search overtime: "M79"
+ 1:01:20.384 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 1:01:43.182 [CE][LootRespawner] (PRIDummy) :: Item [170] causing search overtime: "M79"
+ 1:02:10.324 [CE][LootRespawner] (PRIDummy) :: Item [171] causing search overtime: "M79"
+ 1:02:37.560 [CE][LootRespawner] (PRIDummy) :: Item [172] causing search overtime: "M79"
+ 1:03:04.588 [CE][LootRespawner] (PRIDummy) :: Item [173] causing search overtime: "M79"
+ 1:03:06.737 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 1:03:31.810 [CE][LootRespawner] (PRIDummy) :: Item [174] causing search overtime: "M79"
+ 1:03:59.415 [CE][LootRespawner] (PRIDummy) :: Item [175] causing search overtime: "M79"
+ 1:04:26.901 [CE][LootRespawner] (PRIDummy) :: Item [176] causing search overtime: "M79"
+ 1:04:31.367 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 1:04:55.688 [CE][LootRespawner] (PRIDummy) :: Item [177] causing search overtime: "M79"
+ 1:05:23.526 [CE][LootRespawner] (PRIDummy) :: Item [178] causing search overtime: "M79"
+ 1:05:51.490 [CE][LootRespawner] (PRIDummy) :: Item [179] causing search overtime: "M79"
+ 1:05:55.459 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 1:06:19.92 [CE][LootRespawner] (PRIDummy) :: Item [180] causing search overtime: "M79"
+ 1:06:46.579 [CE][LootRespawner] (PRIDummy) :: Item [181] causing search overtime: "M79"
+ 1:07:13.952 [CE][LootRespawner] (PRIDummy) :: Item [182] causing search overtime: "M79"
+ 1:07:18.754 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 1:07:41.383 [CE][LootRespawner] (PRIDummy) :: Item [183] causing search overtime: "M79"
+ 1:08:09.76 [CE][LootRespawner] (PRIDummy) :: Item [184] causing search overtime: "M79"
+ 1:08:36.239 [CE][LootRespawner] (PRIDummy) :: Item [185] causing search overtime: "M79"
+ 1:09:03.585 [CE][LootRespawner] (PRIDummy) :: Item [186] causing search overtime: "M79"
+ 1:09:06.314 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 1:09:30.863 [CE][LootRespawner] (PRIDummy) :: Item [187] causing search overtime: "M79"
+ 1:09:58.69 [CE][LootRespawner] (PRIDummy) :: Item [188] causing search overtime: "M79"
+ 1:10:25.696 [CE][LootRespawner] (PRIDummy) :: Item [189] causing search overtime: "M79"
+ 1:10:29.298 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 1:10:53.173 [CE][LootRespawner] (PRIDummy) :: Item [190] causing search overtime: "M79"
+ 1:11:20.431 [CE][LootRespawner] (PRIDummy) :: Item [191] causing search overtime: "M79"
+ 1:11:47.400 [CE][LootRespawner] (PRIDummy) :: Item [192] causing search overtime: "M79"
+ 1:11:51.901 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 1:12:14.374 [CE][LootRespawner] (PRIDummy) :: Item [193] causing search overtime: "M79"
+ 1:12:17.198 [CE][Links] found 42 total links between groups, of 99
+ 1:12:17.198 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 1:12:17.254 [CE][Links] found 42 total links between groups, of 100
+ 1:12:17.254 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.310 [CE][Links] found 42 total links between groups, of 101
+ 1:12:17.310 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.416 [CE][Links] found 42 total links between groups, of 102
+ 1:12:17.416 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.418 [CE][Links] found 42 total links between groups, of 103
+ 1:12:17.418 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.433 [CE][Links] found 42 total links between groups, of 104
+ 1:12:17.433 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.454 [CE][Links] found 42 total links between groups, of 105
+ 1:12:17.454 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.475 [CE][Links] found 42 total links between groups, of 106
+ 1:12:17.475 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.529 [CE][Links] found 42 total links between groups, of 107
+ 1:12:17.529 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.563 [CE][Links] found 42 total links between groups, of 108
+ 1:12:17.563 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 1:12:17.589 [CE][Links] found 42 total links between groups, of 109
+ 1:12:17.589 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.689 [CE][Links] found 44 total links between groups, of 110
+ 1:12:17.689 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.692 [CE][Links] found 44 total links between groups, of 111
+ 1:12:17.692 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.700 [CE][Links] found 44 total links between groups, of 112
+ 1:12:17.700 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:17.712 [CE][Links] found 46 total links between groups, of 113
+ 1:12:17.712 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.725 [CE][Links] found 48 total links between groups, of 114
+ 1:12:17.725 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.739 [CE][Links] found 50 total links between groups, of 115
+ 1:12:17.739 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.985 [CE][Links] found 52 total links between groups, of 116
+ 1:12:17.985 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.997 [CE][Links] found 54 total links between groups, of 117
+ 1:12:17.997 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 1:12:17.998 [CE][Links] found 54 total links between groups, of 118
+ 1:12:17.998 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.07 [CE][Links] found 54 total links between groups, of 119
+ 1:12:18.07 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 1:12:18.20 [CE][Links] found 54 total links between groups, of 120
+ 1:12:18.20 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.21 [CE][Links] found 54 total links between groups, of 121
+ 1:12:18.21 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.23 [CE][Links] found 54 total links between groups, of 122
+ 1:12:18.23 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.34 [CE][Links] found 54 total links between groups, of 123
+ 1:12:18.34 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 1:12:18.151 [CE][Links] found 54 total links between groups, of 124
+ 1:12:18.151 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 1:12:18.183 [CE][Links] found 54 total links between groups, of 125
+ 1:12:18.183 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.204 [CE][Links] found 56 total links between groups, of 126
+ 1:12:18.204 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 3
+ 1:12:18.216 [CE][Links] found 56 total links between groups, of 127
+ 1:12:18.216 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.218 [CE][Links] found 56 total links between groups, of 128
+ 1:12:18.218 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.270 [CE][Links] found 56 total links between groups, of 129
+ 1:12:18.270 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.318 [CE][Links] found 56 total links between groups, of 130
+ 1:12:18.318 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 1:12:18.398 [CE][Links] found 56 total links between groups, of 131
+ 1:12:18.398 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 2
+ 1:12:18.398 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Sum of container LootMax is lower than event child LootMax (2 < 5)
+ 1:12:18.398 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Wanting to spawn more loot than possible (3 > 2)
+ 1:12:43.568 [CE][LootRespawner] (PRIDummy) :: Item [194] causing search overtime: "M79"
+ 1:13:10.668 [CE][LootRespawner] (PRIDummy) :: Item [195] causing search overtime: "M79"
+ 1:13:37.921 [CE][LootRespawner] (PRIDummy) :: Item [196] causing search overtime: "M79"
+ 1:13:40.33 [CE][Links] found 60 total links between groups, of 132
+ 1:13:40.33 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 1:13:40.33 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.39 [CE][Links] found 62 total links between groups, of 133
+ 1:13:40.39 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 1:13:40.39 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.39 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 1:13:40.44 [CE][Links] found 68 total links between groups, of 134
+ 1:13:40.44 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 1:13:40.44 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.44 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 1:13:40.50 [CE][Links] found 70 total links between groups, of 135
+ 1:13:40.50 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 1:13:40.50 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.50 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 1:13:40.102 [CE][Links] found 74 total links between groups, of 136
+ 1:13:40.102 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 1:13:40.102 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.121 [CE][Links] found 82 total links between groups, of 137
+ 1:13:40.121 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 1:13:40.121 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.125 [CE][Links] found 90 total links between groups, of 138
+ 1:13:40.125 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 1:13:40.125 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.125 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 1:13:40.128 [CE][Links] found 94 total links between groups, of 139
+ 1:13:40.128 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 1:13:40.128 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.128 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 1:13:40.153 [CE][Links] found 102 total links between groups, of 140
+ 1:13:40.153 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+ 1:13:40.153 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 1:13:40.153 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+ 1:13:40.357 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 1:13:41.57 [CE][Links] found 102 total links between groups, of 141
+ 1:13:41.57 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.63 [CE][Links] found 102 total links between groups, of 142
+ 1:13:41.63 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.90 [CE][Links] found 102 total links between groups, of 143
+ 1:13:41.90 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.183 [CE][Links] found 104 total links between groups, of 144
+ 1:13:41.183 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.185 [CE][Links] found 106 total links between groups, of 145
+ 1:13:41.185 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.188 [CE][Links] found 108 total links between groups, of 146
+ 1:13:41.188 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.193 [CE][Links] found 110 total links between groups, of 147
+ 1:13:41.193 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.197 [CE][Links] found 112 total links between groups, of 148
+ 1:13:41.197 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.321 [CE][Links] found 112 total links between groups, of 149
+ 1:13:41.321 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.356 [CE][Links] found 112 total links between groups, of 150
+ 1:13:41.356 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.374 [CE][Links] found 112 total links between groups, of 151
+ 1:13:41.374 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.377 [CE][Links] found 112 total links between groups, of 152
+ 1:13:41.377 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.380 [CE][Links] found 114 total links between groups, of 153
+ 1:13:41.380 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.400 [CE][Links] found 118 total links between groups, of 154
+ 1:13:41.400 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.402 [CE][Links] found 124 total links between groups, of 155
+ 1:13:41.402 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.425 [CE][Links] found 126 total links between groups, of 156
+ 1:13:41.425 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.429 [CE][Links] found 128 total links between groups, of 157
+ 1:13:41.429 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.432 [CE][Links] found 130 total links between groups, of 158
+ 1:13:41.432 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.494 [CE][Links] found 130 total links between groups, of 159
+ 1:13:41.494 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.509 [CE][Links] found 130 total links between groups, of 160
+ 1:13:41.509 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.532 [CE][Links] found 130 total links between groups, of 161
+ 1:13:41.532 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.567 [CE][Links] found 130 total links between groups, of 162
+ 1:13:41.567 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:41.697 [CE][Links] found 130 total links between groups, of 163
+ 1:13:41.697 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:42.36 [CE][Links] found 130 total links between groups, of 164
+ 1:13:42.36 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:42.94 [CE][Links] found 130 total links between groups, of 165
+ 1:13:42.94 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 1:13:42.210 [CE][Links] found 130 total links between groups, of 166
+ 1:13:42.210 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 1:13:42.323 [CE][Links] found 130 total links between groups, of 167
+ 1:13:42.323 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 1:13:42.448 [CE][Links] found 132 total links between groups, of 168
+ 1:13:42.448 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 1:13:42.603 [CE][Links] found 132 total links between groups, of 169
+ 1:13:42.603 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 1:13:42.630 [CE][Links] found 132 total links between groups, of 170
+ 1:13:42.630 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 1:13:42.641 [CE][Links] found 132 total links between groups, of 171
+ 1:13:42.641 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 1:13:42.816 [CE][Links] found 132 total links between groups, of 172
+ 1:13:42.816 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:42.821 [CE][Links] found 132 total links between groups, of 173
+ 1:13:42.821 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 1:13:42.857 [CE][Links] found 132 total links between groups, of 174
+ 1:13:42.857 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 1:13:42.863 [CE][Links] found 132 total links between groups, of 175
+ 1:13:42.863 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 1:13:42.866 [CE][Links] found 136 total links between groups, of 176
+ 1:13:42.866 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 1:13:42.886 [CE][Links] found 140 total links between groups, of 177
+ 1:13:42.886 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 1:13:42.925 [CE][Links] found 144 total links between groups, of 178
+ 1:13:42.925 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 1:14:07.194 [CE][LootRespawner] (PRIDummy) :: Item [197] causing search overtime: "M79"
+ 1:14:34.359 [CE][LootRespawner] (PRIDummy) :: Item [198] causing search overtime: "M79"
+ 1:15:01.892 [CE][LootRespawner] (PRIDummy) :: Item [199] causing search overtime: "M79"
+ 1:15:05.140 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 1:15:14.283 [Disconnect]: Start script disconnect 355978709 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 1:15:25.393 [Disconnect]: Client 355978709 disconnecting
+ 1:15:25.393 [Disconnect]: Client 355978709 early disconnect
+ 1:15:26.391 [Disconnect]: Start script disconnect 355978709 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 1:15:29.828 [Disconnect]: Remove player info 355978709
+ 1:15:30.271 [Disconnect]: Finish script disconnect 355978709 (kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=)
+ 1:15:30.305 [Disconnect]: DisconnectPlayerFinish 355978709
+ 1:15:31.600 [Disconnect]: Player destroy 355978709 
+=======================================================
+-------------------------------------------------------
+Time:  1:20:26
+Exception code: C0000374  Û˜‡ ·˚Î‡ ÔÓ‚ÂÊ‰ÂÌ‡.
+ at AAD8F3C9
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  FOG_Vest_Osprey_stuff in FOG_MOD\Vests\fog_osprey\
+  FOG_Bag_F4Terminator_shit in FOG_MOD\Gear\bags\f4terminator\
+  FOG_MOD_SoftCap in FOG_MOD\Gear\headgear\softcap\, FOG_MOD_Data in FOG_MOD\Data\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  FOG_MOD_Glasses_PitViper in FOG_MOD\Gear\misc\pitvipers\
+  FOG_Helmet_Accessories_Comtac4 in FOG_MOD\Gear\helmet\accessories\comtacpeltors4\
+  DZ_Surfaces_Sakhal in DZ\surfaces_sakhal\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  BM_Gear_Medical_Salewa in bm_medicine\models\salewa\
+  FOG_MOD_Panel_Spiritus in FOG_MOD\Vests\accessories\panels\spirituspanelass\
+  TF_SR25 in weapon_b\weapons\sr25\, DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  FOG_M32_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\m32\
+  FOG_MOD_GhillieSuit in FOG_MOD\Gear\misc\ghillie\
+  TF_OTs14_Groza_Muzzle in weapon_a\attachments\muzzle\silencer\ots14_barrels\
+  DZ_Gear_Medical in DZ\gear\medical\, DZ_Vehicles_Parts in DZ\vehicles\parts\
+  FOG_MOD_Clothes in FOG_MOD\Clothes\
+  FOG_MTF_Pants_Shit in FOG_MOD\Clothes\pants\mtf_uniform_pants\
+  FOG_Bag_Trizip in FOG_MOD\Gear\bags\trizip\
+  FOG_Hooded_Cloak_Stuff in FOG_MOD\Gear\misc\hooded_cloak\
+  TF_OTs_14_Groza_Optic in optic_a\ots14_scope\
+  TF_HAMR in optic_a\leupold_mark_4_hamr\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Sounds_Effects in DZ\sounds\hpp\, FOG_Gear_Vest_PACA in FOG_MOD\Vests\paca\
+  TF_MakarovPBSuppressor in weapon_a\attachments\muzzle\silencer\makarovpbsuppressor\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  TF_SCAR_H_CQC in weapon_a\weapons\mk17_cqc\
+  TF_Tiss in weapon_a\weapons\ots12_tiss\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  TF_Grips in weapon_a\attachments\grips\
+  FOG_Shirt_Tactical_Coat_Shit in FOG_MOD\Clothes\shirts\fog_open_coat\
+  DZ_Characters_Tops in DZ\characters\tops\, TF_PKM in weapon_b\weapons\pkm\
+  FOG_MOD_Weapons in FOG_MOD\Weapons\
+  FOG_Pants_Crye_G3_Shit in FOG_MOD\Clothes\pants\fog_crye_g3pants\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\, FOG_MOD_Vests in FOG_MOD\Vests\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  FOG_Gorka_Pants_Shit in FOG_MOD\Clothes\pants\gorka_pants\
+  FOG_PVS31_stuff in FOG_MOD\Gear\nvg\pvs-31\
+  FOG_Helmet_Accessories_MantaStrobe in FOG_MOD\Gear\helmet\accessories\manta strobe\
+  TF_WeldingMask in armor_a\headgear\weldingmask\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  TF_Top_6sh122 in clothing_a\tops\6sh122\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\, DZ_UI in DZ\ui\
+  TF_NVGoggles_PNV10T in armor_a\headgear\pnv10t\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  TF_AK_Receiver in weapon_a\attachments\sight\ak_tula_10000\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, TF_PKP in weapon_b\weapons\pkp\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  FOG_COMTAC3_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\comtac3\
+  DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\, DZ_Scripts in scripts\
+  JM_CF_GUI in JM\CF\GUI\, TF_Elcan_SpecterDR in optic_a\elcan_specterdr_1_4x\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  FOG_MOD_BoltCutters in FOG_MOD\Gear\misc\boltcutters\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  TF_AKSu_Handguards in weapon_a\attachments\handguards\ak_zenitco_b11_b12\
+  FOG_Helmet_Accessories_HMTL in FOG_MOD\Gear\helmet\accessories\hmtl_sf\
+  DZ_ModuleZ in DZ\modulesDayz\
+  TF_PKM_6ch63Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch63\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\
+  TF_PKM_SAICompensator in weapon_b\attachments\muzzle\muzzleflash_sai\
+  TF_PKM_ZenitPT2Bttstck in weapon_b\attachments\buttstock\pkm_pt2_buttstock\
+  M14_project_M14_DMR in weapon_a\weapons\m14_dmr\, sVisual in MyMODS\sVisual\
+  FOG_Vest_MMAC_stuff in FOG_MOD\Vests\mmac\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  FOG_Helmet_FAST_Bump_shit in FOG_MOD\Gear\helmet\fast_bump\
+  DZ_Worlds_Sakhal in DZ\worlds\sakhal\world\
+  TF_M4_ColtA2Optic in weapon_a\attachments\sight\colt_a2_sight\
+  TF_Vest_AVS in armor_a\vests\vest_avs\
+  FOG_Gear_Vest_LV119 in FOG_MOD\Vests\lv119\
+  FOG_Vest_AVS_stuff in FOG_MOD\Vests\fog_avs\
+  FOG_MOD_Knife_Strongarm in FOG_MOD\Weapons\melee\strongarm\
+  DZ_Plants_Bliss in DZ\plants_bliss\, sGunplay in MyMODS\sGunplay\
+  TF_AK74M in weapon_a\weapons\ak74m\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  TF_VPO136 in weapon_a\weapons\vpo136\
+  FOG_Helmet_Accessories_MTCover in FOG_MOD\Gear\helmet\accessories\fastmt_cover\
+  FOG_Helmet_Accessories_RAC in FOG_MOD\Gear\helmet\accessories\rac_headset\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  FOG_Hoodie_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_hoodie\
+  TF_OKP7Optic in optic_a\okp7\, Helmet_LZSh3 in armor_a\headgear\lshz\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  TF_Maska1 in armor_a\headgear\mask_1sh\
+  TF_PKM_6ch43Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch43\
+  FOG_511_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_511_flanel\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  TF_Sounds_AK74 in weapon_b\sounds\soundsak74\
+  DZ_Characters_Vests in DZ\characters\vests\
+  FOG_UFP_Pants_Shit in FOG_MOD\Clothes\pants\urban_fighter_pants\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  FOG_MOD_PVS31A in FOG_MOD\Gear\nvg\pvs31a\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  JM_CF_Defines in JM\CF\Defines\
+  TF_AR15_Magazines in weapon_a\magazines\ar15_556x45\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  FOG_Ronin_Hat_Stuff in FOG_MOD\Gear\headgear\ronin_hat\
+  TF_VPO190 in weapon_a\weapons\vpo190\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  FOG_Vest_FCPC_stuff in FOG_MOD\Vests\fog_fcpc\
+  TF_MREX_Handguard in weapon_a\attachments\handguards\mrex\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  FOG_Helmet_FASTMT_shit in FOG_MOD\Gear\helmet\fast_mt\
+  FOG_Shirt_Polo_Shit in FOG_MOD\Clothes\shirts\fog_polo\
+  BM_Gear_Medical_Injectors in bm_medicine\models\injector\
+  DZ_Structures_Roads in DZ\structures\roads\, TF_magazines in weapon_a\magazines\
+  BM_Gear_Medical_IFAK in bm_medicine\models\ifak\, JM_CF_Scripts in JM\CF\Scripts\
+  Anzio20_Ammos in weapon_a\ammo\20mm\
+  FOG_Shirt_ISOF_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_isofjacket\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  FOG_Helmet_Airframe_shit in FOG_MOD\Gear\helmet\crye_af\
+  FOG_MOD_Mask_ArcteryxBalaclava in FOG_MOD\Gear\masks\arcteryx_balaclava\
+  DZ_Gear_Containers in DZ\gear\containers\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  BM_Gear_Medical_Esmarch in bm_medicine\models\esmarch\
+  BM_Gear_Medical_Grizly in bm_medicine\models\grizly\
+  TF_M240 in weapon_b\weapons\m240\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  FOG_Bag_6SHTBag in FOG_MOD\Gear\bags\6sh118t\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Gear_Books in DZ\gear\books\
+  TF_G3_CombatShirt in clothing_a\tops\g3_combatshirt\
+  FOG_Helmet_Exfil_shit in FOG_MOD\Gear\helmet\wendy_exfil\
+  TF_MK20_Buttstock in weapon_a\attachments\buttstocks\mk20bttstck\
+  TF_Backpack in clothing_a\backpack\, DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Structures_Walls in DZ\structures\walls\
+  FOG_HeavyRiders_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_heavyriders\
+  TF_SCAR_MK20 in weapon_a\weapons\mk20_ssr\, TF_M4 in weapon_a\weapons\m4\
+  expm79_project in weapon_a\weapons\m79\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  FOG_MOD_ZynCan in FOG_MOD\Gear\misc\zyncan\
+  DZ_Worlds_Sakhal_Navmesh in DZ\worlds\sakhal\navmesh\
+  FOG_MOD_SniperHood in FOG_MOD\Gear\misc\sniper_hood\
+  TF_AR10_LancerHndgrd in weapon_b\attachments\handguard\ar10_lancer_handguard\
+  TF_Magazine_FiveSeven in weapon_a\magazines\fiveseven\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  TF_Grenades in grenades_a\grenades\
+  BM_Gear_Medical_Ololo in bm_medicine\models\ololo\
+  TF_AK105Bullpup in weapon_a\weapons\ak105_bullpup\
+  FOG_Clothing_Pants_G99 in FOG_MOD\Clothes\pants\g99\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  TF_EOTech_XPS in optic_a\eotech_xps\, DZ_Server_Data in DZ\server\
+  FOG_MOD_Panel_MapPackMed in FOG_MOD\Vests\accessories\panels\mappack_medium\
+  TF_PKP_PlasticBttstck in weapon_b\attachments\buttstock\pkp_plastic_buttstock\
+  BM_Gear_Medical_CAT in bm_medicine\models\cat\
+  FOG_Helmet_Accessories_MOHOC in FOG_MOD\Gear\helmet\accessories\mohoc\
+  FOG_MOD_Masks_AVONM53 in FOG_MOD\Gear\masks\avon_m53a1\
+  TF_NVGoggles_AVS9 in armor_a\headgear\an_pvs_9\
+  TF_Mag_SR25_20Rnd in weapon_b\magazines\std_sr25_308win\
+  FOG_MOD_Shirts_G3Hoodie in FOG_MOD\Clothes\shirts\g3_hoodie_combo\
+  TF_Vest_JPC in armor_a\vests\vest_jpc\, weapon_a in weapon_a\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  FOG_MOD_Boots_Zypher in FOG_MOD\Gear\shoes\zephyr_boots\
+  FOG_MOD_Scripts in FOG_MOD\Scripts\, grenades_a in grenades_a\
+  TF_PKM_CNCC39Bttstck in weapon_b\attachments\buttstock\pkm_c39_buttstock\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  FOG_MOD_Glasses_ESS in FOG_MOD\Gear\misc\ess_glasses\
+  TF_Magazine_AKM in weapon_a\magazines\ak_ak55_762_10rnd\, weapon_b in weapon_b\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  TF_MAP_Backpacks in armor_a\backpack\map_backpack\
+  TF_AEK999 in weapon_b\weapons\aek999\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Gear_Tools in DZ\gear\tools\, DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  TF_M14_Adapter in weapon_a\attachments\sight\dmr_adapter\
+  DZ_Data_Bliss in DZ\data_bliss\, DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  FOG_Slammer_Stuff in FOG_MOD\Weapons\melee\sf_slammer\
+  TF_M249 in weapon_b\weapons\m249\, shade_clothing in armor_a\vests\plate_carrier\
+  FOG_Bag_SSOBag in FOG_MOD\Gear\bags\ssobag\
+  FOG_Masks_OpscoreSOTR in FOG_MOD\Gear\masks\opscoresotr\
+  ExplosiveAmmo_Project in script_a\explosion_add\
+  TF_VLTOR_Adapter in weapon_a\attachments\buttstocks\vltor_adapter\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\, DZ_Gear_Food in DZ\gear\food\
+  FOG_Vest_JPC_stuff in FOG_MOD\Vests\fog_jpc\
+  BM_Gear_Medical_AI2 in bm_medicine\models\ai2\
+  FOG_Gear_Vest_SSMK4 in FOG_MOD\Vests\unarmored\ssmk4\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\, optic_a in optic_a\
+  Foil in clothing_a\foil_hat\, TF_6B43Vest in armor_a\vests\vest_6b43\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  TF_DeltaPointM in optic_a\leupold_deltapoint_micro\
+  TF_GasMask_PMK4 in armor_a\headgear\gasmask_pmk4\
+  DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\, DZ_Rocks in DZ\rocks\
+  RearmedServer_Gear_BodyBag in Bodybags\Gear\bodybag\
+  FOG_Gorka_Jacket_Shit in FOG_MOD\Clothes\shirts\gorka_shirt\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  BM_Gear_Medical_AutoMedkit in bm_medicine\models\automedkit\
+  FOG_GPNVG_Tarzier_stuff in FOG_MOD\Gear\nvg\gpnvg\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  FOG_Ronin_Belt_Shit in FOG_MOD\Gear\belts\fog_ronin_belt\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  DZ_Rocks_Sakhal in DZ\rocks_sakhal\, DZ_Sounds_Characters in DZ\sounds\Characters\
+  FOG_TV110T_Stuff in FOG_MOD\Vests\tv110_t\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  m14_project_M1A in weapon_a\weapons\m1a\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Data_Sakhal in DZ\data_sakhal\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\, Bodybags_Gear in Bodybags\Gear\
+  TF_vest_IMTV in armor_a\vests\vest_imtv\
+  TF_Muzzles in weapon_a\attachments\muzzle\silencer\sound_suppressor_338\
+  DZ_Structures in DZ\structures\data\
+  TF_LVMBAVVest_KH in armor_a\vests\vest_lv_mbav\
+  TF_AN94_Bttstck in weapon_a\attachments\buttstocks\ak_caa_adapter\
+  TF_Magazine_VPO190 in weapon_a\magazines\vpo190_545_4rnd\
+  FOG_GPNVG_Elite_stuff in FOG_MOD\Gear\nvg\gpnvg_elite\
+  BodyBags_Scripts in Bodybags\Scripts\
+  TF_AK_MVRIBttstck in weapon_a\attachments\buttstocks\ak_mrvi\
+  FOG_MOD_NVG in FOG_MOD\Gear\nvg\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  FOG_Helmet_Accessories_SFCover in FOG_MOD\Gear\helmet\accessories\sf_cover\
+  DZ_Characters_Shoes_Override in clothing_a\boots\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  FOG_Knight_Mask_Stuff in FOG_MOD\Gear\masks\knight_mask\
+  FOG_MOD_Slots in FOG_MOD\Data\slots\, TF_Pouch in armor_a\pouches\
+  DZ_Characters_Masks in DZ\characters\masks\
+  TF_Sounds_aksu in weapon_b\sounds\soundsaks74u\
+  DZ_Gear_Cooking in DZ\gear\cooking\
+  FOG_Helmet_Accessories_AFCover in FOG_MOD\Gear\helmet\accessories\crye_af_cover\
+  BM_Gear_Medical_Bandages in bm_medicine\models\bandage\
+  FOG_Combat_HikingBoots_shit in FOG_MOD\Gear\shoes\fog_alex_boots\
+  BM_Gear_Medical_Hemostatic in bm_medicine\models\hemostatic\
+  TF_Pants_6sh122 in clothing_a\pants\6sh122\
+  TF_M4_MagpulPRSGen3Bttstck in weapon_b\attachments\buttstock\magpul_prs_gen3\
+  FOG_Gear_Vest_LVMBAV in FOG_MOD\Vests\mbav\
+  FOG_Hooded_Parka_Shit in FOG_MOD\Clothes\shirts\hooded_parka\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\, DZ_Data in DZ\data\
+  Anzio20 in weapon_a\weapons\anzio_20\
+  TF_6kh5KnifeSheath in weapon_a\attachments\muzzle\bayonet\holster_6x5\
+  TF_Mag_SVCh308_10Rnd in weapon_b\magazines\svch_308_10rnd\
+  TF_AK_Zenit_PT1Bttstck in weapon_a\attachments\buttstocks\ak_zenitco_pt1\
+  BM_Gear_Medical_Alusplint in bm_medicine\models\alusplint\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  TF_AKS74U_CAAHndgrd_RIS in weapon_a\attachments\handguards\ak_xrsu47su\
+  TF_AR10_URXHndgrd in weapon_b\attachments\handguard\ar10_urx_handguard\
+  BM_Gear_Medical_Aquatabs in bm_medicine\models\aquatabs\
+  BM_Gear_Medical_GoldStar in bm_medicine\models\goldstar\
+  DZ_Characters in DZ\characters\data\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  TF_pb6p9 in weapon_a\weapons\pb_6p9\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Worlds_Sakhal_CE in DZ\worlds\sakhal\ce\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Melee in DZ\weapons\melee\, DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  TF_PKM_WoodBttstck in weapon_b\attachments\buttstock\pkm_wood_buttstock\
+  TF_6B47Helmet in armor_a\headgear\6b47\
+  TF_AVS_Backpacks in armor_a\backpack\avs_zipper_panel\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  TF_PKM_DTK1_Compensator in weapon_b\attachments\muzzle\muzzleflash_dtk1\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  TF_NVGoggles_PVS14 in armor_a\headgear\an_pvs_14\
+  TF_STD_SCAR_Handguard in weapon_a\attachments\handguards\std_handguard\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  TF_Magazine_MP443 in weapon_a\magazines\mp433_9x19\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  TF_Handguard_CMMG_15 in weapon_a\attachments\handguards\cmmg_mk3_rml15\
+  DZ_Animals_lepus_europaeus in DZ\animals\lepus_europaeus\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  TF_NVGoggles_PVS15 in armor_a\headgear\an_pvs_15\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZM_VPPStaticItems in VPPStaticItems\
+  FOG_Tshirt_Black_Shit in FOG_MOD\Clothes\shirts\fog_tshirt\
+  DZ_Gear_Crafting in DZ\gear\crafting\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Spawn_Proxies in DZ\data\proxies\, Ammo_338LM in weapon_a\ammo\338lm\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  FOG_MOD_Headgear_AMP in FOG_MOD\Gear\helmet\accessories\opscore_amp\
+  FOG_MRB_Belt in FOG_MOD\Gear\belts\mrb\, DZ_Radio in DZ\gear\radio\
+  TF_SCAR_L_CQC in weapon_a\weapons\mk16_cqc\
+  BM_Gear_Medical_CMS in bm_medicine\models\cms\
+  DZ_Structures_Residential in DZ\structures\residential\
+  TF_Belt_Funny_Bag in armor_a\belts\funny_bag\, DZ_AI in DZ\AI\
+  BM_Gear_Medical_Analgin in bm_medicine\models\analgin\
+  FOG_Helmet_Accessories_MTMand in FOG_MOD\Gear\helmet\accessories\fastmt_mand\
+  DZ_Animals_vulpes_vulpes in DZ\animals\vulpes_vulpes\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Gear_Consumables in DZ\gear\consumables\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  FOG_MOD_Pants_FieldPants in FOG_MOD\Clothes\pants\fieldpants\
+  TF_Magazine_PKM in weapon_b\magazines\pkm_762_100rnd\
+  TF_AR10_NoveskeHndgrd in weapon_b\attachments\handguard\ar10_noveske_handguard\
+  Ammo_57 in weapon_a\ammo\bullet_57x28\, DZ_Animals_Bliss in DZ\animals_bliss\
+  TF_PKM_6p20_Compensator in weapon_b\attachments\muzzle\muzzleflash_6p20\
+  TF_Sounds_m4 in weapon_b\sounds\soundsm4\
+  DZ_Animals_rangifer_tarandus in DZ\animals\rangifer_tarandus\
+  FOG_Bag_SATL in FOG_MOD\Gear\bags\mr_satl\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\, DZ_Anims_Cfg in DZ\anims\cfg\
+  script_a in script_a\, TF_G3_Pants in clothing_a\pants\g2_pants\
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  sFramework in MyMODS\sFramework\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Structures_Military in DZ\structures\military\
+  TF_Sounds_ak101 in weapon_b\sounds\soundsak101\
+  FOG_Enhanced_PCU_Shit in FOG_MOD\Clothes\shirts\fog_enhanced_pcu\
+  FOG_Mustache_Stuff in FOG_MOD\Gear\masks\mustache\
+  M14_project_M14_EBR in weapon_a\weapons\m14_ebr\
+  FOG_MOD_Shirt_ButtonUp in FOG_MOD\Clothes\shirts\buttonup_short\
+  FOG_BISON_Belt in FOG_MOD\Gear\belts\fc_bison\
+  DZM_VPPAdminTools in VPPAdminTools\assets\, FOG_Vest_Thor in FOG_MOD\Vests\thor\
+  TF_Mk47_Mutant in weapon_a\weapons\mk47_mutant\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  TF_AR10_KACHndgrd_RIS in weapon_b\attachments\handguard\ar10_kac_handguard\
+  TF_Sounds_akm in weapon_b\sounds\soundsakm\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  FOG_UFJ_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_urban_fighter\
+  TF_ADD_SCAR_Handguard in weapon_a\attachments\handguards\add_handguard\
+  TF_Sounds_ak102 in weapon_b\sounds\soundsak102\
+  DZ_Characters_Heads in DZ\characters\heads\
+  FOG_MOD_NVG_UAPNVG in FOG_MOD\Gear\nvg\uapnvg\
+  DZ_Plants_Sakhal in DZ\plants_sakhal\, DZ_Plants in DZ\plants\
+  TF_PKM_Handguard in weapon_b\attachments\handguard\pkm_b50_handguard\
+  FOG_Bag_MRASAP in FOG_MOD\Gear\bags\mr_asap\
+  FOG_MOD_Shoes_Lerch in FOG_MOD\Gear\shoes\lerch_boots\
+  TF_MICH2000Helmet in armor_a\headgear\mich2000\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  TF_Bipod in weapon_a\attachments\bipods\harris_bipod_next_gen\
+  clothing_a in clothing_a\, BM_Medicine in bm_medicine\, DZ_Surfaces in DZ\surfaces\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  TF_Groza in weapon_a\weapons\ots14_groza\, DZ_Vehicles_Water in DZ\vehicles\water\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Structures_Sakhal in DZ\structures_sakhal\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  FOG_MOD_Gear in FOG_MOD\Gear\
+  FOG_Crye_G3_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_crye_g3shirt\
+  DZM_VPPAdminToolsScripts in VPPAdminTools\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  FOG_Helmet_Accessories_MK1Pack in FOG_MOD\Gear\helmet\accessories\mk1batterypack\
+  TF_Sounds_ak105 in weapon_b\sounds\soundsak105\
+  TF_M4_B5PrecisionBttstck in weapon_b\attachments\buttstock\ar15_b5_precision\
+  TF_PistolGrips_B in weapon_b\attachments\pistolgrips\
+  FOG_Jacket_SoftShell_Shit in FOG_MOD\Clothes\shirts\fog_softshell\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\, DZ_Sounds_AI in DZ\sounds\ai\
+  FOG_MOD_Pants_FieldShorts in FOG_MOD\Clothes\pants\fieldshorts\
+  TF_MP443 in weapon_a\weapons\mp443\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  rig_6sh112 in armor_a\vests\rig_6sh112\
+  TF_Magazine_AK in weapon_b\magazines\ak101_6l29_556_30rnd\
+  DZ_Gear_Traps in DZ\gear\traps\
+  TF_Handguard_M16 in weapon_b\attachments\handguard\m16_kac_ris\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  FOG_Shirts_Rugby in FOG_MOD\Clothes\shirts\vsrugby\
+  DZ_Structures_Signs in DZ\structures\signs\
+  FOG_Operator_Boots_shit in FOG_MOD\Gear\shoes\fog_operator_boots\
+  TF_PistolGrips in weapon_a\attachments\pistolgrips\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  TF_AKM in weapon_a\weapons\akm\, FOG_MOD_Vests_CPC in FOG_MOD\Vests\fog_cpc\
+  DZ_Weapons_Firearms_SV98 in DZ\weapons\firearms\sv98\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\
+  FOG_MOD_WatchCap in FOG_MOD\Gear\headgear\watchcap\
+  DZ_Animals_rangifer_tarandus_feminam in DZ\animals\rangifer_tarandus_fem\
+  TF_ADAR215 in weapon_a\weapons\adar215\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  TF_AN94 in weapon_a\weapons\an94\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  BM_Gear_Medical_AFAK in bm_medicine\models\afak\
+  TF_Sounds_mutant in weapon_b\sounds\soundsmk47mutant\
+  FOG_Bag_DrawBridge in FOG_MOD\Gear\bags\drawbridge\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  TF_vest_6B23 in armor_a\vests\vest_6b23\
+  FOG_Ghost_Mask_New_Stuff in FOG_MOD\Gear\masks\ghost_mask_new\
+  TF_Sounds in weapon_a\sound\, FOG_Vest_TacTec_stuff in FOG_MOD\Vests\fog_tactec\
+  TF_Magazine_M240 in weapon_b\magazines\m240_308win_50rnd\
+  FOG_Gear_Hands_GunGloves in FOG_MOD\Gear\hands\gungloves\
+  TF_PK122_Valday in optic_a\pk122_valday\
+  FOG_Beards_Handlebar in FOG_MOD\Gear\misc\beards\handlebar\
+  TF_FiveSeven in weapon_a\weapons\fiveseven\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  TF_AK_Bayonet in weapon_a\attachments\muzzle\bayonet\bayonet_6x5\
+  FOG_Bag_BlackJack in FOG_MOD\Gear\bags\mr_bj\, TF_AKMN in weapon_a\weapons\akmn\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  TF_PKM_6ch76Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch76\
+  FOG_MOD_Vest_LBT6094 in FOG_MOD\Vests\lbt6094\
+  DZ_Structures_Rail in DZ\structures\rail\, DZ_Water in DZ\water\
+  FOG_Data_Patches in FOG_MOD\Data\patches\, DZ_Water_Sakhal in DZ\water_sakhal\
+  FOG_MOD_DEFCON_Shoes in FOG_MOD\Gear\shoes\defcon_vans\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  TF_M4_FABDGLCoreBttstck in weapon_b\attachments\buttstock\ar15_fab_defense_gl_core\
+  TF_CargoPantsShort in clothing_a\pants\cargopantsshort\
+  FOG_Cronen_Shirt_Shit in FOG_MOD\Clothes\shirts\cronen_athletic\
+  FOG_Weapons_Tomahawk in FOG_MOD\Weapons\melee\dr_tomahawk\
+  FOG_MOD_Acc_FC_Torus in FOG_MOD\Gear\helmet\accessories\fc_torus_battpack\
+  FOG_Helmet_Accessories_IR_Marker in FOG_MOD\Gear\helmet\accessories\ir_marker\
+  TF_M16A4 in weapon_b\weapons\m16a3\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  TF_SCAR_MK16 in weapon_a\weapons\mk16\, TF_SVCh in weapon_b\weapons\svch\
+  FOG_Masks_M50Gasmask in FOG_MOD\Gear\masks\m50_gasmask\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  BM_Gear_Medical_Surv12 in bm_medicine\models\surv12\
+  M14_project_M14_STD in weapon_a\weapons\m14_std\
+  BM_Gear_Medical_Splint in bm_medicine\models\splint\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  TF_Handguard_CMMG_9 in weapon_a\attachments\handguards\cmmg_mk3_rml9\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  SpaghettiSuppression in SuppressionMod\Scripts\
+  TF_MagazinePouch in armor_a\vests\vest_6b43\attachments\
+  TF_MAR_10 in weapon_a\weapons\mar10\
+  FOG_Helmet_FAST_SF_shit in FOG_MOD\Gear\helmet\fast_sf\
+  FOG_Tactical_Fingerless_Gloves_stuff in FOG_MOD\Gear\hands\fingerless_tactical\
+  TF_AK101 in weapon_a\weapons\ak101\
+  TF_Handguard_M4 in weapon_a\attachments\handguards\m4_dd9\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  TF_AKS74U in weapon_a\weapons\aks74u\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  TF_AK102 in weapon_a\weapons\ak102\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  FOG_MOD_Vests_Accessories in FOG_MOD\Vests\accessories\
+  TF_AK_Hndgrd in weapon_a\attachments\handguards\ak_zenitco_b30_b31\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  ExpAmmo_project in weapon_a\ammo\cartrige_40x46mm\
+  TF_AK_Bttstck in weapon_b\attachments\buttstock\ak_magpul_zhukov_buttsock\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  FOG_Tactical_Hoodie_Shit in FOG_MOD\Clothes\shirts\fog_tachoodie\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  FOG_MOD_Shirt_L9Patagonia in FOG_MOD\Clothes\shirts\l9_patagonia\
+  TF_TacticBelt in clothing_a\belt\, TF_SCAR_H in weapon_a\weapons\mk17\
+  FOG_Tactical_Fleece_Shit in FOG_MOD\Clothes\shirts\tactical_fleece\
+  FOG_MOD_Headgear_Boonie in FOG_MOD\Gear\headgear\boonie\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  FOG_Gear_Vest_D3CRX in FOG_MOD\Vests\unarmored\d3crx\
+  FOG_MOD_Hands_FerroGloves in FOG_MOD\Gear\hands\ferrogloves\
+  BM_Gear_Medical_Ibuprofen in bm_medicine\models\ibuprofen\
+  TF_AK104 in weapon_a\weapons\ak104\
+  FOG_Vest_Gen4_stuff in FOG_MOD\Vests\iotvgen4\
+  FOG_MTF_Shirt_Shit in FOG_MOD\Clothes\shirts\mtf_uniform_shirt\
+  TF_Magazine_M249 in weapon_b\magazines\m249_556_200rnd\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\
+  BM_Gear_Medical_Vaselin in bm_medicine\models\vaselin\
+  FOG_Characters_Backpacks_Bergen in FOG_MOD\Gear\bags\bergen_fixed\
+  DZ_Animals in DZ\animals\, armor_a in armor_a\, TF_AK105 in weapon_a\weapons\ak105\
+  FOG_MOD_FleeceCap in FOG_MOD\Gear\headgear\fleececap\
+  FOG_MOD_Helmet_MICH2000 in FOG_MOD\Gear\helmet\mich2000\
+  RPC_Scripts in JM\CF\Defines\
+  TF_Attachments in weapon_a\attachments\buttstocks\std_buttstock\
+  DZ_Worlds_Sakhal_Data in DZ\worlds\sakhal\data\
+  FOG_Helmet_Accessories_Comtac3 in FOG_MOD\Gear\helmet\accessories\comtacpeltors3\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+Mods: @CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods)
+Version 1.26.159040
+Fault address:  AAD8F3C9 00:AAD8F3C9 Unknown module
+file:     dayzOffline
+world:    chernarusplus
+Prev. code bytes: CC CC CC CC CC CC CC 48 83 EC 48 E8 07 2D F5 FF
+Fault code bytes: EB 00 48 83 C4 48 C3 CC 40 55 48 83 EC 20 48 8B
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2025-01-20_01-20-26.mdmp

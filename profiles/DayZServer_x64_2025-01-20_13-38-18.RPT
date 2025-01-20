@@ -1,0 +1,816 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods);" -profiles=profiles "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye"
+=====================================================================
+Exe timestamp: 2025/01/19 22:17:47
+Current time:  2025/01/20 13:38:45
+Version 1.26.159040
+=====================================================================
+
+13:38:45.728 [Inputs] Loading inputs default "bin/constants.xml"
+13:38:45.731 [Inputs] Loading inputs default "bin/specific.xml"
+13:38:45.732 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+13:38:45.732 [Inputs] Loading inputs default "script_a/Inputs.xml"
+13:38:45.732 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+13:38:45.733 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+13:38:45.733 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+13:38:45.733 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+13:38:45.733 [Inputs] Loading inputs cfg "bin/core.xml"
+13:38:45.733 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+13:38:45.735 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+13:39:04.481 Hostname of server: "EXAMPLE NAME"
+13:39:27.941 [CE][Hive] :: Initializing OFFLINE
+13:39:27.941 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\
+13:39:27.941 [CE][Hive] :: Loading core data ... 
+13:39:27.975 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+13:39:49.813 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+13:39:49.816 [CE][TypeSetup] :: 553 classes setuped...
+13:39:54.11 [CE][RegisterBind] :: 0 classes binded...
+13:39:54.12 [CE][RegisterConfig] :: 13408 config classes registered, 0 sub-counters...
+13:39:54.12 [CE][Hive] :: Loading map data ... 
+13:39:54.50 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+13:39:54.256 [CE][LoadPrototype] :: loaded 426 prototypes
+13:39:54.256   822 containers, 10876 points
+13:39:54.256   71 dispatches, 250 proxies
+13:39:54.256 !!! [CE][LoadPrototype] 5 groups have no points...
+13:39:54.256 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+13:39:54.290 [CE][LoadPrototype] :: loaded 0 prototypes
+13:39:54.290   55 containers, 232 points
+13:39:54.290   0 dispatches, 0 proxies
+13:39:54.290 [CE][LoadPrototype] :: last group name: Rail9...
+13:39:55.698 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+13:39:55.718 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+13:39:56.198 [CE][Links] found 1950 total links between groups, of 11680
+13:39:56.198 [CE][LoadClusters] "Cluster" :: Loading files...
+13:39:56.561 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+13:39:56.930 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+13:39:57.278 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+13:39:57.637 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+13:39:57.768 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+13:39:57.873 [CE][Storage] ver:21 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+13:39:57.917 [CE][Storage] ver:21 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+13:39:57.949 [CE][Storage] ver:21 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+13:39:57.949 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+13:39:58.207 !!! [CE][offlineDB] :: No Shutdown message present.
+13:39:58.247 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+13:39:58.359 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+13:39:58.361 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+13:39:58.784 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+13:39:58.785 [CE][DE][SPAWNS] :: Total positions: 1038
+13:39:58.785 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+13:39:58.802 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+13:39:58.833 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+13:39:58.844 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+13:39:58.844 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+13:39:58.844 [CE][DynamicEvent] Load  Events:[50] Primary spawners: 50 Secondary spawners: 4
+13:39:58.885 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+13:39:58.907 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+13:39:58.934 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+13:39:58.935 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 915 items.
+13:40:00.15   915 items loaded. (0 failed)
+13:40:00.60 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+13:40:00.72 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+13:40:00.89 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+13:40:00.90 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1758 items.
+13:40:01.482   1758 items loaded. (0 failed)
+13:40:01.512 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+13:40:01.561 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+13:40:01.630 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+13:40:01.631 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2471 items.
+13:40:03.357   2471 items loaded. (0 failed)
+13:40:03.399 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+13:40:03.432 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+13:40:03.453 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+13:40:03.453 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2020 items.
+13:40:05.101   2020 items loaded. (0 failed)
+13:40:05.131 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+13:40:05.150 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+13:40:05.193 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+13:40:05.193 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1786 items.
+13:40:06.547   1786 items loaded. (0 failed)
+13:40:06.595 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+13:40:06.621 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+13:40:06.703 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+13:40:06.703 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2178 items.
+13:40:08.662   2178 items loaded. (0 failed)
+13:40:08.726 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+13:40:08.754 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+13:40:08.867 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+13:40:08.867 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1500 items.
+13:40:10.379   1500 items loaded. (0 failed)
+13:40:10.415 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+13:40:10.457 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+13:40:10.507 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+13:40:10.507 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1595 items.
+13:40:12.736   1595 items loaded. (0 failed)
+13:40:12.790 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+13:40:12.863 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+13:40:12.887 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+13:40:12.888 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2188 items.
+13:40:14.880   2188 items loaded. (0 failed)
+13:40:14.898 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+13:40:14.921 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+13:40:14.987 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+13:40:14.987 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2705 items.
+13:40:17.447   2705 items loaded. (0 failed)
+13:40:17.469 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+13:40:17.486 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+13:40:17.504 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+13:40:17.504 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1704 items.
+13:40:19.122   1704 items loaded. (0 failed)
+13:40:19.143 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+13:40:19.162 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+13:40:19.183 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+13:40:19.183 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 162 items.
+13:40:19.339   162 items loaded. (0 failed)
+13:40:19.346 [CE][Storage] ver:26 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+13:40:19.353 [CE][Storage] ver:26 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+13:40:19.360 [CE][Storage] ver:26 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+13:40:19.361 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 0 items.
+13:40:19.361   0 items loaded. (0 failed)
+13:40:19.401 [CE][Storage] ver:25 stamp:344, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+13:40:19.424 [CE][Storage] ver:25 stamp:339, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+13:40:19.443 [CE][Storage] ver:25 stamp:343, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+13:40:19.443 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 242 items.
+13:40:20.494   242 items loaded. (0 failed)
+13:40:20.511 [CE][Hive] :: Storage load took:21.66 seconds, recovery stamp:344
+13:40:20.511   entity: 22733, building: 0
+13:40:20.511   no lifetime: 65
+13:40:20.511   pathgraph's: 527
+13:40:20.524 [CE][Hive] :: Initializing ... 
+13:40:20.609 [CE][InitializeMap] :: initialized: 0
+13:40:20.609 [CE][Hive] :: Initializing spawners ... 
+13:40:23.965 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:20645, Total in Map: 21152 at 0 (sec)
+13:40:23.965   tests:0, repeats:0 fails:0, overtime:0
+13:40:23.970 [CE][DynEvent] :: 50 types
+13:40:23.970 [00] AmbientFox
+13:40:23.970   Primary Spawner: "Ambient", active: yes, repeat: 1
+13:40:23.970 [01] AmbientHare
+13:40:23.970   Primary Spawner: "Ambient", active: yes, repeat: 1
+13:40:23.970 [02] AmbientHen
+13:40:23.970   Primary Spawner: "Ambient", active: yes, repeat: 1
+13:40:23.970 [03] AnimalBear
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [04] AnimalCow
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [05] AnimalDeer
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [06] AnimalGoat
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [07] AnimalPig
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [08] AnimalRoeDeer
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [09] AnimalSheep
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [10] AnimalWildBoar
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [11] AnimalWolf
+13:40:23.970   Primary Spawner: "Animal", active: yes, repeat: 1
+13:40:23.970 [12] InfectedArmy
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [13] InfectedArmyHard
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [14] InfectedCity
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [15] InfectedCityTier1
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [16] InfectedFirefighter
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [17] InfectedIndustrial
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [18] InfectedMedic
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [19] InfectedNBC
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [20] InfectedPolice
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [21] InfectedPoliceHard
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [22] InfectedPrisoner
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [23] InfectedReligious
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [24] InfectedSanta
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [25] InfectedSolitude
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [26] InfectedVillage
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [27] InfectedVillageTier1
+13:40:23.970   Primary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.970 [28] ItemPlanks
+13:40:23.970   Primary Spawner: "Item", active: yes, repeat: 1
+13:40:23.970 [29] Loot
+13:40:23.970   Primary Spawner: "Loot", active: yes, repeat: 2
+13:40:23.971 [30] StaticAirplaneCrate
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971 [31] StaticContaminatedArea
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971 [32] StaticHeliCrash
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971   Secondary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.971 [33] StaticMilitaryConvoy
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971   Secondary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.971 [34] StaticPoliceSituation
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971   Secondary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.971 [35] StaticTrain
+13:40:23.971   Primary Spawner: "Static", active: yes, repeat: 1
+13:40:23.971   Secondary Spawner: "Infected", active: yes, repeat: 1
+13:40:23.971 [36] TrajectoryApple
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [37] TrajectoryConiferous
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [38] TrajectoryDeciduous
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [39] TrajectoryHumus
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [40] TrajectoryPear
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [41] TrajectoryPlum
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [42] TrajectoryStones
+13:40:23.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+13:40:23.971 [43] VehicleBoat
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [44] VehicleCivilianSedan
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [45] VehicleHatchback02
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [46] VehicleOffroad02
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [47] VehicleOffroadHatchback
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [48] VehicleSedan02
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [49] VehicleTruck01
+13:40:23.971   Primary Spawner: "Vehicle", active: yes, repeat: 1
+13:40:23.971 [CE][Hive] :: Initializing of spawners done.
+13:40:23.986 [CE][Hive] :: Init sequence finished.
+13:40:23.986 Player connect enabled
+13:40:25.575 [IdleMode] Entering IN - save processed
+13:43:30.314 [Login]: Adding player Leonid Astapev (139095565) to login queue at position 0
+13:43:30.314 [LoginMachine]: Add player Leonid Astapev (139095565 26.114.104.113:63634)
+13:43:30.314 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid ) Entering AuthPlayerLoginState
+13:43:31.155 [IdleMode] Leaving OUT
+13:43:32.25 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid ) Entering WaitAuthPlayerLoginState
+13:43:36.367 –ü–æ–¥–∫–ª—é—á–∏–ª—Å—è –∏–≥—Ä–æ–∫ Leonid Astapev (id=kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=).
+13:43:36.367 Player "Leonid Astapev"(steamID=76561199221059231) is connected
+13:43:36.370 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid ) Entering WaitPlayerAssignedLoginState
+13:43:37.886 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid ) Entering PlayerAssignedLoginState
+13:43:37.886 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetLoginTimeLoginState
+13:43:37.934 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBWaitLoginTimeLoginState
+13:43:52.934 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetCharacterLoginState
+13:43:52.938 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering CreateNetObjectsLoginState
+13:43:52.938 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: Kamyshovo | idx: 4 (ut: 334938 | lt: 240000 | ctr: -1)
+13:43:52.938 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: Kamyshovo | idx: 4 (ct: 334938 | ut: 334938 | lt: 240000 | ctr: -1)
+13:43:52.938 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: Kamyshovo index: 4 (lt: 240000 | ctr: -1)
+13:43:52.947 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering PreloadCamLoginState
+13:43:52.948 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering WaitPreloadCamLoginState
+13:43:53.848 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "M79"
+13:44:21.521 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "M79"
+13:44:24.857 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+13:44:48.386 [StateMachine]: Player Leonid Astapev (dpnid 139095565 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering GetNewCharLoginState
+13:44:59.415 [Disconnect]: Client 139095565 disconnecting
+13:44:59.415 [Disconnect]: Client 139095565 early disconnect
+13:45:06.553 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 139095565
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+13:45:06.556 [Disconnect]: Remove player info 139095565
+13:45:06.922 [Disconnect]: Start script disconnect 139095565 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+13:45:06.922 [Disconnect]: Player destroy 139095565 
+13:45:07.450 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "M79"
+13:45:21.923 [Disconnect]: Finish script disconnect -1 (kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=)
+13:45:35.13 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "M79"
+13:46:02.854 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "M79"
+13:46:07.150 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+13:46:14.294 [IdleMode] Entering IN - save processed
+13:47:56.29 [Login]: Adding player Leonid Astapev (165901365) to login queue at position 0
+13:47:56.29 [LoginMachine]: Add player Leonid Astapev (165901365 26.114.104.113:60177)
+13:47:56.29 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid ) Entering AuthPlayerLoginState
+13:47:56.496 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid ) Entering WaitAuthPlayerLoginState
+13:47:59.539 [IdleMode] Leaving OUT
+13:47:59.579 –ü–æ–¥–∫–ª—é—á–∏–ª—Å—è –∏–≥—Ä–æ–∫ Leonid Astapev (id=kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=).
+13:47:59.580 Player "Leonid Astapev"(steamID=76561199221059231) is connected
+13:47:59.580 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid ) Entering WaitPlayerAssignedLoginState
+13:48:01.341 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid ) Entering PlayerAssignedLoginState
+13:48:01.342 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetLoginTimeLoginState
+13:48:01.349 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBWaitLoginTimeLoginState
+13:48:16.349 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering DBGetCharacterLoginState
+13:48:16.353 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering CreateNetObjectsLoginState
+13:48:16.368 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering PreloadCamLoginState
+13:48:16.369 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering WaitPreloadCamLoginState
+13:48:21.721 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "M79"
+13:48:38.337 [StateMachine]: Player Leonid Astapev (dpnid 165901365 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering GetLoadedCharLoginState
+13:48:38.364 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 165901365
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+13:48:50.69 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "M79"
+13:49:17.859 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "M79"
+13:49:45.95 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "M79"
+13:49:47.194 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+13:50:12.109 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "M79"
+13:50:39.150 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "M79"
+13:51:06.159 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "M79"
+13:51:09.175 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+13:51:31.869 [Disconnect]: Client 165901365 early disconnect
+13:51:32.366 [Disconnect]: Start script disconnect 165901365 (dbCharacterId 1 dbPlayerId 1) logoutTime 0
+13:51:32.874 [Disconnect]: Remove player info 165901365
+13:51:32.878 [Disconnect]: Finish script disconnect 165901365 (kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=)
+13:51:32.878 [Disconnect]: DisconnectPlayerFinish 165901365
+13:51:33.388 [Disconnect]: Player destroy 165901365 
+=======================================================
+-------------------------------------------------------
+Time: 13:51:44
+Exception code: C0000374  Û˜‡ ·˚Î‡ ÔÓ‚ÂÊ‰ÂÌ‡.
+ at AAD8F3C9
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  FOG_Vest_Osprey_stuff in FOG_MOD\Vests\fog_osprey\
+  FOG_Bag_F4Terminator_shit in FOG_MOD\Gear\bags\f4terminator\
+  FOG_MOD_SoftCap in FOG_MOD\Gear\headgear\softcap\, FOG_MOD_Data in FOG_MOD\Data\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  FOG_MOD_Glasses_PitViper in FOG_MOD\Gear\misc\pitvipers\
+  FOG_Helmet_Accessories_Comtac4 in FOG_MOD\Gear\helmet\accessories\comtacpeltors4\
+  DZ_Surfaces_Sakhal in DZ\surfaces_sakhal\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  BM_Gear_Medical_Salewa in bm_medicine\models\salewa\
+  FOG_MOD_Panel_Spiritus in FOG_MOD\Vests\accessories\panels\spirituspanelass\
+  TF_SR25 in weapon_b\weapons\sr25\, DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  FOG_M32_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\m32\
+  FOG_MOD_GhillieSuit in FOG_MOD\Gear\misc\ghillie\
+  TF_OTs14_Groza_Muzzle in weapon_a\attachments\muzzle\silencer\ots14_barrels\
+  DZ_Gear_Medical in DZ\gear\medical\, DZ_Vehicles_Parts in DZ\vehicles\parts\
+  FOG_MOD_Clothes in FOG_MOD\Clothes\
+  FOG_MTF_Pants_Shit in FOG_MOD\Clothes\pants\mtf_uniform_pants\
+  FOG_Bag_Trizip in FOG_MOD\Gear\bags\trizip\
+  FOG_Hooded_Cloak_Stuff in FOG_MOD\Gear\misc\hooded_cloak\
+  TF_OTs_14_Groza_Optic in optic_a\ots14_scope\
+  TF_HAMR in optic_a\leupold_mark_4_hamr\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Sounds_Effects in DZ\sounds\hpp\, FOG_Gear_Vest_PACA in FOG_MOD\Vests\paca\
+  TF_MakarovPBSuppressor in weapon_a\attachments\muzzle\silencer\makarovpbsuppressor\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  TF_SCAR_H_CQC in weapon_a\weapons\mk17_cqc\
+  TF_Tiss in weapon_a\weapons\ots12_tiss\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  TF_Grips in weapon_a\attachments\grips\
+  FOG_Shirt_Tactical_Coat_Shit in FOG_MOD\Clothes\shirts\fog_open_coat\
+  DZ_Characters_Tops in DZ\characters\tops\, TF_PKM in weapon_b\weapons\pkm\
+  FOG_MOD_Weapons in FOG_MOD\Weapons\
+  FOG_Pants_Crye_G3_Shit in FOG_MOD\Clothes\pants\fog_crye_g3pants\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\, FOG_MOD_Vests in FOG_MOD\Vests\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  FOG_Gorka_Pants_Shit in FOG_MOD\Clothes\pants\gorka_pants\
+  FOG_PVS31_stuff in FOG_MOD\Gear\nvg\pvs-31\
+  FOG_Helmet_Accessories_MantaStrobe in FOG_MOD\Gear\helmet\accessories\manta strobe\
+  TF_WeldingMask in armor_a\headgear\weldingmask\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  TF_Top_6sh122 in clothing_a\tops\6sh122\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\, DZ_UI in DZ\ui\
+  TF_NVGoggles_PNV10T in armor_a\headgear\pnv10t\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  TF_AK_Receiver in weapon_a\attachments\sight\ak_tula_10000\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, TF_PKP in weapon_b\weapons\pkp\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  FOG_COMTAC3_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\comtac3\
+  DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\, DZ_Scripts in scripts\
+  JM_CF_GUI in JM\CF\GUI\, TF_Elcan_SpecterDR in optic_a\elcan_specterdr_1_4x\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  FOG_MOD_BoltCutters in FOG_MOD\Gear\misc\boltcutters\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  TF_AKSu_Handguards in weapon_a\attachments\handguards\ak_zenitco_b11_b12\
+  FOG_Helmet_Accessories_HMTL in FOG_MOD\Gear\helmet\accessories\hmtl_sf\
+  DZ_ModuleZ in DZ\modulesDayz\
+  TF_PKM_6ch63Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch63\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\
+  TF_PKM_SAICompensator in weapon_b\attachments\muzzle\muzzleflash_sai\
+  TF_PKM_ZenitPT2Bttstck in weapon_b\attachments\buttstock\pkm_pt2_buttstock\
+  M14_project_M14_DMR in weapon_a\weapons\m14_dmr\, sVisual in MyMODS\sVisual\
+  FOG_Vest_MMAC_stuff in FOG_MOD\Vests\mmac\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  FOG_Helmet_FAST_Bump_shit in FOG_MOD\Gear\helmet\fast_bump\
+  DZ_Worlds_Sakhal in DZ\worlds\sakhal\world\
+  TF_M4_ColtA2Optic in weapon_a\attachments\sight\colt_a2_sight\
+  TF_Vest_AVS in armor_a\vests\vest_avs\
+  FOG_Gear_Vest_LV119 in FOG_MOD\Vests\lv119\
+  FOG_Vest_AVS_stuff in FOG_MOD\Vests\fog_avs\
+  FOG_MOD_Knife_Strongarm in FOG_MOD\Weapons\melee\strongarm\
+  DZ_Plants_Bliss in DZ\plants_bliss\, sGunplay in MyMODS\sGunplay\
+  TF_AK74M in weapon_a\weapons\ak74m\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  TF_VPO136 in weapon_a\weapons\vpo136\
+  FOG_Helmet_Accessories_MTCover in FOG_MOD\Gear\helmet\accessories\fastmt_cover\
+  FOG_Helmet_Accessories_RAC in FOG_MOD\Gear\helmet\accessories\rac_headset\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  FOG_Hoodie_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_hoodie\
+  TF_OKP7Optic in optic_a\okp7\, Helmet_LZSh3 in armor_a\headgear\lshz\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  TF_Maska1 in armor_a\headgear\mask_1sh\
+  TF_PKM_6ch43Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch43\
+  FOG_511_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_511_flanel\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  TF_Sounds_AK74 in weapon_b\sounds\soundsak74\
+  DZ_Characters_Vests in DZ\characters\vests\
+  FOG_UFP_Pants_Shit in FOG_MOD\Clothes\pants\urban_fighter_pants\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  FOG_MOD_PVS31A in FOG_MOD\Gear\nvg\pvs31a\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  JM_CF_Defines in JM\CF\Defines\
+  TF_AR15_Magazines in weapon_a\magazines\ar15_556x45\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  FOG_Ronin_Hat_Stuff in FOG_MOD\Gear\headgear\ronin_hat\
+  TF_VPO190 in weapon_a\weapons\vpo190\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  FOG_Vest_FCPC_stuff in FOG_MOD\Vests\fog_fcpc\
+  TF_MREX_Handguard in weapon_a\attachments\handguards\mrex\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  FOG_Helmet_FASTMT_shit in FOG_MOD\Gear\helmet\fast_mt\
+  FOG_Shirt_Polo_Shit in FOG_MOD\Clothes\shirts\fog_polo\
+  BM_Gear_Medical_Injectors in bm_medicine\models\injector\
+  DZ_Structures_Roads in DZ\structures\roads\, TF_magazines in weapon_a\magazines\
+  BM_Gear_Medical_IFAK in bm_medicine\models\ifak\, JM_CF_Scripts in JM\CF\Scripts\
+  Anzio20_Ammos in weapon_a\ammo\20mm\
+  FOG_Shirt_ISOF_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_isofjacket\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  FOG_Helmet_Airframe_shit in FOG_MOD\Gear\helmet\crye_af\
+  FOG_MOD_Mask_ArcteryxBalaclava in FOG_MOD\Gear\masks\arcteryx_balaclava\
+  DZ_Gear_Containers in DZ\gear\containers\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  BM_Gear_Medical_Esmarch in bm_medicine\models\esmarch\
+  BM_Gear_Medical_Grizly in bm_medicine\models\grizly\
+  TF_M240 in weapon_b\weapons\m240\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  FOG_Bag_6SHTBag in FOG_MOD\Gear\bags\6sh118t\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Gear_Books in DZ\gear\books\
+  TF_G3_CombatShirt in clothing_a\tops\g3_combatshirt\
+  FOG_Helmet_Exfil_shit in FOG_MOD\Gear\helmet\wendy_exfil\
+  TF_MK20_Buttstock in weapon_a\attachments\buttstocks\mk20bttstck\
+  TF_Backpack in clothing_a\backpack\, DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Structures_Walls in DZ\structures\walls\
+  FOG_HeavyRiders_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_heavyriders\
+  TF_SCAR_MK20 in weapon_a\weapons\mk20_ssr\, TF_M4 in weapon_a\weapons\m4\
+  expm79_project in weapon_a\weapons\m79\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  FOG_MOD_ZynCan in FOG_MOD\Gear\misc\zyncan\
+  DZ_Worlds_Sakhal_Navmesh in DZ\worlds\sakhal\navmesh\
+  FOG_MOD_SniperHood in FOG_MOD\Gear\misc\sniper_hood\
+  TF_AR10_LancerHndgrd in weapon_b\attachments\handguard\ar10_lancer_handguard\
+  TF_Magazine_FiveSeven in weapon_a\magazines\fiveseven\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  TF_Grenades in grenades_a\grenades\
+  BM_Gear_Medical_Ololo in bm_medicine\models\ololo\
+  TF_AK105Bullpup in weapon_a\weapons\ak105_bullpup\
+  FOG_Clothing_Pants_G99 in FOG_MOD\Clothes\pants\g99\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  TF_EOTech_XPS in optic_a\eotech_xps\, DZ_Server_Data in DZ\server\
+  FOG_MOD_Panel_MapPackMed in FOG_MOD\Vests\accessories\panels\mappack_medium\
+  TF_PKP_PlasticBttstck in weapon_b\attachments\buttstock\pkp_plastic_buttstock\
+  BM_Gear_Medical_CAT in bm_medicine\models\cat\
+  FOG_Helmet_Accessories_MOHOC in FOG_MOD\Gear\helmet\accessories\mohoc\
+  FOG_MOD_Masks_AVONM53 in FOG_MOD\Gear\masks\avon_m53a1\
+  TF_NVGoggles_AVS9 in armor_a\headgear\an_pvs_9\
+  TF_Mag_SR25_20Rnd in weapon_b\magazines\std_sr25_308win\
+  FOG_MOD_Shirts_G3Hoodie in FOG_MOD\Clothes\shirts\g3_hoodie_combo\
+  TF_Vest_JPC in armor_a\vests\vest_jpc\, weapon_a in weapon_a\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  FOG_MOD_Boots_Zypher in FOG_MOD\Gear\shoes\zephyr_boots\
+  FOG_MOD_Scripts in FOG_MOD\Scripts\, grenades_a in grenades_a\
+  TF_PKM_CNCC39Bttstck in weapon_b\attachments\buttstock\pkm_c39_buttstock\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  FOG_MOD_Glasses_ESS in FOG_MOD\Gear\misc\ess_glasses\
+  TF_Magazine_AKM in weapon_a\magazines\ak_ak55_762_10rnd\, weapon_b in weapon_b\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  TF_MAP_Backpacks in armor_a\backpack\map_backpack\
+  TF_AEK999 in weapon_b\weapons\aek999\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Gear_Tools in DZ\gear\tools\, DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  TF_M14_Adapter in weapon_a\attachments\sight\dmr_adapter\
+  DZ_Data_Bliss in DZ\data_bliss\, DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  FOG_Slammer_Stuff in FOG_MOD\Weapons\melee\sf_slammer\
+  TF_M249 in weapon_b\weapons\m249\, shade_clothing in armor_a\vests\plate_carrier\
+  FOG_Bag_SSOBag in FOG_MOD\Gear\bags\ssobag\
+  FOG_Masks_OpscoreSOTR in FOG_MOD\Gear\masks\opscoresotr\
+  ExplosiveAmmo_Project in script_a\explosion_add\
+  TF_VLTOR_Adapter in weapon_a\attachments\buttstocks\vltor_adapter\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\, DZ_Gear_Food in DZ\gear\food\
+  FOG_Vest_JPC_stuff in FOG_MOD\Vests\fog_jpc\
+  BM_Gear_Medical_AI2 in bm_medicine\models\ai2\
+  FOG_Gear_Vest_SSMK4 in FOG_MOD\Vests\unarmored\ssmk4\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\, optic_a in optic_a\
+  Foil in clothing_a\foil_hat\, TF_6B43Vest in armor_a\vests\vest_6b43\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  TF_DeltaPointM in optic_a\leupold_deltapoint_micro\
+  TF_GasMask_PMK4 in armor_a\headgear\gasmask_pmk4\
+  DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\, DZ_Rocks in DZ\rocks\
+  RearmedServer_Gear_BodyBag in Bodybags\Gear\bodybag\
+  FOG_Gorka_Jacket_Shit in FOG_MOD\Clothes\shirts\gorka_shirt\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  BM_Gear_Medical_AutoMedkit in bm_medicine\models\automedkit\
+  FOG_GPNVG_Tarzier_stuff in FOG_MOD\Gear\nvg\gpnvg\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  FOG_Ronin_Belt_Shit in FOG_MOD\Gear\belts\fog_ronin_belt\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  DZ_Rocks_Sakhal in DZ\rocks_sakhal\, DZ_Sounds_Characters in DZ\sounds\Characters\
+  FOG_TV110T_Stuff in FOG_MOD\Vests\tv110_t\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  m14_project_M1A in weapon_a\weapons\m1a\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Data_Sakhal in DZ\data_sakhal\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\, Bodybags_Gear in Bodybags\Gear\
+  TF_vest_IMTV in armor_a\vests\vest_imtv\
+  TF_Muzzles in weapon_a\attachments\muzzle\silencer\sound_suppressor_338\
+  DZ_Structures in DZ\structures\data\
+  TF_LVMBAVVest_KH in armor_a\vests\vest_lv_mbav\
+  TF_AN94_Bttstck in weapon_a\attachments\buttstocks\ak_caa_adapter\
+  TF_Magazine_VPO190 in weapon_a\magazines\vpo190_545_4rnd\
+  FOG_GPNVG_Elite_stuff in FOG_MOD\Gear\nvg\gpnvg_elite\
+  BodyBags_Scripts in Bodybags\Scripts\
+  TF_AK_MVRIBttstck in weapon_a\attachments\buttstocks\ak_mrvi\
+  FOG_MOD_NVG in FOG_MOD\Gear\nvg\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  FOG_Helmet_Accessories_SFCover in FOG_MOD\Gear\helmet\accessories\sf_cover\
+  DZ_Characters_Shoes_Override in clothing_a\boots\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  FOG_Knight_Mask_Stuff in FOG_MOD\Gear\masks\knight_mask\
+  FOG_MOD_Slots in FOG_MOD\Data\slots\, TF_Pouch in armor_a\pouches\
+  DZ_Characters_Masks in DZ\characters\masks\
+  TF_Sounds_aksu in weapon_b\sounds\soundsaks74u\
+  DZ_Gear_Cooking in DZ\gear\cooking\
+  FOG_Helmet_Accessories_AFCover in FOG_MOD\Gear\helmet\accessories\crye_af_cover\
+  BM_Gear_Medical_Bandages in bm_medicine\models\bandage\
+  FOG_Combat_HikingBoots_shit in FOG_MOD\Gear\shoes\fog_alex_boots\
+  BM_Gear_Medical_Hemostatic in bm_medicine\models\hemostatic\
+  TF_Pants_6sh122 in clothing_a\pants\6sh122\
+  TF_M4_MagpulPRSGen3Bttstck in weapon_b\attachments\buttstock\magpul_prs_gen3\
+  FOG_Gear_Vest_LVMBAV in FOG_MOD\Vests\mbav\
+  FOG_Hooded_Parka_Shit in FOG_MOD\Clothes\shirts\hooded_parka\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\, DZ_Data in DZ\data\
+  Anzio20 in weapon_a\weapons\anzio_20\
+  TF_6kh5KnifeSheath in weapon_a\attachments\muzzle\bayonet\holster_6x5\
+  TF_Mag_SVCh308_10Rnd in weapon_b\magazines\svch_308_10rnd\
+  TF_AK_Zenit_PT1Bttstck in weapon_a\attachments\buttstocks\ak_zenitco_pt1\
+  BM_Gear_Medical_Alusplint in bm_medicine\models\alusplint\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  TF_AKS74U_CAAHndgrd_RIS in weapon_a\attachments\handguards\ak_xrsu47su\
+  TF_AR10_URXHndgrd in weapon_b\attachments\handguard\ar10_urx_handguard\
+  BM_Gear_Medical_Aquatabs in bm_medicine\models\aquatabs\
+  BM_Gear_Medical_GoldStar in bm_medicine\models\goldstar\
+  DZ_Characters in DZ\characters\data\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  TF_pb6p9 in weapon_a\weapons\pb_6p9\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Worlds_Sakhal_CE in DZ\worlds\sakhal\ce\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Melee in DZ\weapons\melee\, DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  TF_PKM_WoodBttstck in weapon_b\attachments\buttstock\pkm_wood_buttstock\
+  TF_6B47Helmet in armor_a\headgear\6b47\
+  TF_AVS_Backpacks in armor_a\backpack\avs_zipper_panel\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  TF_PKM_DTK1_Compensator in weapon_b\attachments\muzzle\muzzleflash_dtk1\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  TF_NVGoggles_PVS14 in armor_a\headgear\an_pvs_14\
+  TF_STD_SCAR_Handguard in weapon_a\attachments\handguards\std_handguard\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  TF_Magazine_MP443 in weapon_a\magazines\mp433_9x19\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  TF_Handguard_CMMG_15 in weapon_a\attachments\handguards\cmmg_mk3_rml15\
+  DZ_Animals_lepus_europaeus in DZ\animals\lepus_europaeus\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  TF_NVGoggles_PVS15 in armor_a\headgear\an_pvs_15\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZM_VPPStaticItems in VPPStaticItems\
+  FOG_Tshirt_Black_Shit in FOG_MOD\Clothes\shirts\fog_tshirt\
+  DZ_Gear_Crafting in DZ\gear\crafting\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Spawn_Proxies in DZ\data\proxies\, Ammo_338LM in weapon_a\ammo\338lm\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  FOG_MOD_Headgear_AMP in FOG_MOD\Gear\helmet\accessories\opscore_amp\
+  FOG_MRB_Belt in FOG_MOD\Gear\belts\mrb\, DZ_Radio in DZ\gear\radio\
+  TF_SCAR_L_CQC in weapon_a\weapons\mk16_cqc\
+  BM_Gear_Medical_CMS in bm_medicine\models\cms\
+  DZ_Structures_Residential in DZ\structures\residential\
+  TF_Belt_Funny_Bag in armor_a\belts\funny_bag\, DZ_AI in DZ\AI\
+  BM_Gear_Medical_Analgin in bm_medicine\models\analgin\
+  FOG_Helmet_Accessories_MTMand in FOG_MOD\Gear\helmet\accessories\fastmt_mand\
+  DZ_Animals_vulpes_vulpes in DZ\animals\vulpes_vulpes\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Gear_Consumables in DZ\gear\consumables\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  FOG_MOD_Pants_FieldPants in FOG_MOD\Clothes\pants\fieldpants\
+  TF_Magazine_PKM in weapon_b\magazines\pkm_762_100rnd\
+  TF_AR10_NoveskeHndgrd in weapon_b\attachments\handguard\ar10_noveske_handguard\
+  Ammo_57 in weapon_a\ammo\bullet_57x28\, DZ_Animals_Bliss in DZ\animals_bliss\
+  TF_PKM_6p20_Compensator in weapon_b\attachments\muzzle\muzzleflash_6p20\
+  TF_Sounds_m4 in weapon_b\sounds\soundsm4\
+  DZ_Animals_rangifer_tarandus in DZ\animals\rangifer_tarandus\
+  FOG_Bag_SATL in FOG_MOD\Gear\bags\mr_satl\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\, DZ_Anims_Cfg in DZ\anims\cfg\
+  script_a in script_a\, TF_G3_Pants in clothing_a\pants\g2_pants\
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  sFramework in MyMODS\sFramework\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Structures_Military in DZ\structures\military\
+  TF_Sounds_ak101 in weapon_b\sounds\soundsak101\
+  FOG_Enhanced_PCU_Shit in FOG_MOD\Clothes\shirts\fog_enhanced_pcu\
+  FOG_Mustache_Stuff in FOG_MOD\Gear\masks\mustache\
+  M14_project_M14_EBR in weapon_a\weapons\m14_ebr\
+  FOG_MOD_Shirt_ButtonUp in FOG_MOD\Clothes\shirts\buttonup_short\
+  FOG_BISON_Belt in FOG_MOD\Gear\belts\fc_bison\
+  DZM_VPPAdminTools in VPPAdminTools\assets\, FOG_Vest_Thor in FOG_MOD\Vests\thor\
+  TF_Mk47_Mutant in weapon_a\weapons\mk47_mutant\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  TF_AR10_KACHndgrd_RIS in weapon_b\attachments\handguard\ar10_kac_handguard\
+  TF_Sounds_akm in weapon_b\sounds\soundsakm\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  FOG_UFJ_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_urban_fighter\
+  TF_ADD_SCAR_Handguard in weapon_a\attachments\handguards\add_handguard\
+  TF_Sounds_ak102 in weapon_b\sounds\soundsak102\
+  DZ_Characters_Heads in DZ\characters\heads\
+  FOG_MOD_NVG_UAPNVG in FOG_MOD\Gear\nvg\uapnvg\
+  DZ_Plants_Sakhal in DZ\plants_sakhal\, DZ_Plants in DZ\plants\
+  TF_PKM_Handguard in weapon_b\attachments\handguard\pkm_b50_handguard\
+  FOG_Bag_MRASAP in FOG_MOD\Gear\bags\mr_asap\
+  FOG_MOD_Shoes_Lerch in FOG_MOD\Gear\shoes\lerch_boots\
+  TF_MICH2000Helmet in armor_a\headgear\mich2000\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  TF_Bipod in weapon_a\attachments\bipods\harris_bipod_next_gen\
+  clothing_a in clothing_a\, BM_Medicine in bm_medicine\, DZ_Surfaces in DZ\surfaces\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  TF_Groza in weapon_a\weapons\ots14_groza\, DZ_Vehicles_Water in DZ\vehicles\water\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Structures_Sakhal in DZ\structures_sakhal\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  FOG_MOD_Gear in FOG_MOD\Gear\
+  FOG_Crye_G3_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_crye_g3shirt\
+  DZM_VPPAdminToolsScripts in VPPAdminTools\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  FOG_Helmet_Accessories_MK1Pack in FOG_MOD\Gear\helmet\accessories\mk1batterypack\
+  TF_Sounds_ak105 in weapon_b\sounds\soundsak105\
+  TF_M4_B5PrecisionBttstck in weapon_b\attachments\buttstock\ar15_b5_precision\
+  TF_PistolGrips_B in weapon_b\attachments\pistolgrips\
+  FOG_Jacket_SoftShell_Shit in FOG_MOD\Clothes\shirts\fog_softshell\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\, DZ_Sounds_AI in DZ\sounds\ai\
+  FOG_MOD_Pants_FieldShorts in FOG_MOD\Clothes\pants\fieldshorts\
+  TF_MP443 in weapon_a\weapons\mp443\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  rig_6sh112 in armor_a\vests\rig_6sh112\
+  TF_Magazine_AK in weapon_b\magazines\ak101_6l29_556_30rnd\
+  DZ_Gear_Traps in DZ\gear\traps\
+  TF_Handguard_M16 in weapon_b\attachments\handguard\m16_kac_ris\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  FOG_Shirts_Rugby in FOG_MOD\Clothes\shirts\vsrugby\
+  DZ_Structures_Signs in DZ\structures\signs\
+  FOG_Operator_Boots_shit in FOG_MOD\Gear\shoes\fog_operator_boots\
+  TF_PistolGrips in weapon_a\attachments\pistolgrips\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  TF_AKM in weapon_a\weapons\akm\, FOG_MOD_Vests_CPC in FOG_MOD\Vests\fog_cpc\
+  DZ_Weapons_Firearms_SV98 in DZ\weapons\firearms\sv98\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\
+  FOG_MOD_WatchCap in FOG_MOD\Gear\headgear\watchcap\
+  DZ_Animals_rangifer_tarandus_feminam in DZ\animals\rangifer_tarandus_fem\
+  TF_ADAR215 in weapon_a\weapons\adar215\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  TF_AN94 in weapon_a\weapons\an94\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  BM_Gear_Medical_AFAK in bm_medicine\models\afak\
+  TF_Sounds_mutant in weapon_b\sounds\soundsmk47mutant\
+  FOG_Bag_DrawBridge in FOG_MOD\Gear\bags\drawbridge\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  TF_vest_6B23 in armor_a\vests\vest_6b23\
+  FOG_Ghost_Mask_New_Stuff in FOG_MOD\Gear\masks\ghost_mask_new\
+  TF_Sounds in weapon_a\sound\, FOG_Vest_TacTec_stuff in FOG_MOD\Vests\fog_tactec\
+  TF_Magazine_M240 in weapon_b\magazines\m240_308win_50rnd\
+  FOG_Gear_Hands_GunGloves in FOG_MOD\Gear\hands\gungloves\
+  TF_PK122_Valday in optic_a\pk122_valday\
+  FOG_Beards_Handlebar in FOG_MOD\Gear\misc\beards\handlebar\
+  TF_FiveSeven in weapon_a\weapons\fiveseven\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  TF_AK_Bayonet in weapon_a\attachments\muzzle\bayonet\bayonet_6x5\
+  FOG_Bag_BlackJack in FOG_MOD\Gear\bags\mr_bj\, TF_AKMN in weapon_a\weapons\akmn\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  TF_PKM_6ch76Compensator in weapon_b\attachments\muzzle\muzzleflash_6ch76\
+  FOG_MOD_Vest_LBT6094 in FOG_MOD\Vests\lbt6094\
+  DZ_Structures_Rail in DZ\structures\rail\, DZ_Water in DZ\water\
+  FOG_Data_Patches in FOG_MOD\Data\patches\, DZ_Water_Sakhal in DZ\water_sakhal\
+  FOG_MOD_DEFCON_Shoes in FOG_MOD\Gear\shoes\defcon_vans\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  TF_M4_FABDGLCoreBttstck in weapon_b\attachments\buttstock\ar15_fab_defense_gl_core\
+  TF_CargoPantsShort in clothing_a\pants\cargopantsshort\
+  FOG_Cronen_Shirt_Shit in FOG_MOD\Clothes\shirts\cronen_athletic\
+  FOG_Weapons_Tomahawk in FOG_MOD\Weapons\melee\dr_tomahawk\
+  FOG_MOD_Acc_FC_Torus in FOG_MOD\Gear\helmet\accessories\fc_torus_battpack\
+  FOG_Helmet_Accessories_IR_Marker in FOG_MOD\Gear\helmet\accessories\ir_marker\
+  TF_M16A4 in weapon_b\weapons\m16a3\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  TF_SCAR_MK16 in weapon_a\weapons\mk16\, TF_SVCh in weapon_b\weapons\svch\
+  FOG_Masks_M50Gasmask in FOG_MOD\Gear\masks\m50_gasmask\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  BM_Gear_Medical_Surv12 in bm_medicine\models\surv12\
+  M14_project_M14_STD in weapon_a\weapons\m14_std\
+  BM_Gear_Medical_Splint in bm_medicine\models\splint\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  TF_Handguard_CMMG_9 in weapon_a\attachments\handguards\cmmg_mk3_rml9\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  SpaghettiSuppression in SuppressionMod\Scripts\
+  TF_MagazinePouch in armor_a\vests\vest_6b43\attachments\
+  TF_MAR_10 in weapon_a\weapons\mar10\
+  FOG_Helmet_FAST_SF_shit in FOG_MOD\Gear\helmet\fast_sf\
+  FOG_Tactical_Fingerless_Gloves_stuff in FOG_MOD\Gear\hands\fingerless_tactical\
+  TF_AK101 in weapon_a\weapons\ak101\
+  TF_Handguard_M4 in weapon_a\attachments\handguards\m4_dd9\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  TF_AKS74U in weapon_a\weapons\aks74u\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  TF_AK102 in weapon_a\weapons\ak102\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  FOG_MOD_Vests_Accessories in FOG_MOD\Vests\accessories\
+  TF_AK_Hndgrd in weapon_a\attachments\handguards\ak_zenitco_b30_b31\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  ExpAmmo_project in weapon_a\ammo\cartrige_40x46mm\
+  TF_AK_Bttstck in weapon_b\attachments\buttstock\ak_magpul_zhukov_buttsock\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  FOG_Tactical_Hoodie_Shit in FOG_MOD\Clothes\shirts\fog_tachoodie\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  FOG_MOD_Shirt_L9Patagonia in FOG_MOD\Clothes\shirts\l9_patagonia\
+  TF_TacticBelt in clothing_a\belt\, TF_SCAR_H in weapon_a\weapons\mk17\
+  FOG_Tactical_Fleece_Shit in FOG_MOD\Clothes\shirts\tactical_fleece\
+  FOG_MOD_Headgear_Boonie in FOG_MOD\Gear\headgear\boonie\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  FOG_Gear_Vest_D3CRX in FOG_MOD\Vests\unarmored\d3crx\
+  FOG_MOD_Hands_FerroGloves in FOG_MOD\Gear\hands\ferrogloves\
+  BM_Gear_Medical_Ibuprofen in bm_medicine\models\ibuprofen\
+  TF_AK104 in weapon_a\weapons\ak104\
+  FOG_Vest_Gen4_stuff in FOG_MOD\Vests\iotvgen4\
+  FOG_MTF_Shirt_Shit in FOG_MOD\Clothes\shirts\mtf_uniform_shirt\
+  TF_Magazine_M249 in weapon_b\magazines\m249_556_200rnd\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\
+  BM_Gear_Medical_Vaselin in bm_medicine\models\vaselin\
+  FOG_Characters_Backpacks_Bergen in FOG_MOD\Gear\bags\bergen_fixed\
+  DZ_Animals in DZ\animals\, armor_a in armor_a\, TF_AK105 in weapon_a\weapons\ak105\
+  FOG_MOD_FleeceCap in FOG_MOD\Gear\headgear\fleececap\
+  FOG_MOD_Helmet_MICH2000 in FOG_MOD\Gear\helmet\mich2000\
+  RPC_Scripts in JM\CF\Defines\
+  TF_Attachments in weapon_a\attachments\buttstocks\std_buttstock\
+  DZ_Worlds_Sakhal_Data in DZ\worlds\sakhal\data\
+  FOG_Helmet_Accessories_Comtac3 in FOG_MOD\Gear\helmet\accessories\comtacpeltors3\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+Mods: @CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods)
+Version 1.26.159040
+Fault address:  AAD8F3C9 00:AAD8F3C9 Unknown module
+file:     dayzOffline
+world:    chernarusplus
+Prev. code bytes: CC CC CC CC CC CC CC 48 83 EC 48 E8 07 2D F5 FF
+Fault code bytes: EB 00 48 83 C4 48 C3 CC 40 55 48 83 EC 20 48 8B
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2025-01-20_13-51-44.mdmp

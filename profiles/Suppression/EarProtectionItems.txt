@@ -1,0 +1,5 @@
+TankerHelmet
+FOG_M32_Headset_Black
+FOG_M32_Helmet_RG
+FOG_Comtac3_Headphones_CB_Velcro
+FOG_COMTAC3_Headset_RG

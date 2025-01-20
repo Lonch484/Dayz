@@ -1,0 +1,322 @@
+====================================================================
+                      2025/01/19 20:20:47 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 70.149
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+--------------------------------------------------------------------
+
+20:20:47 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+20:20:47 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sGunplay_constraints.json ] doesn't exists
+20:20:47 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sGunplay_constraints.json ]
+20:20:47 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Gunplay config constraint file : $profile:\sUDE\config\sGunplay_constraints.json
+20:20:47 [ii] │	│	├ Done
+20:20:47 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<6690c5d0>
+20:20:47 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+20:20:47 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sVisual_constraints.json ] doesn't exists
+20:20:47 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sVisual_constraints.json ]
+20:20:47 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Visual config constraint file : $profile:\sUDE\config\sVisual_constraints.json
+20:20:47 [ii] │	│	├ Done
+20:20:47 [ii] │	├ Done -> SUserConfigConstraints_Visual<71ff3390>
+====================================================================
+                      2025/01/19 20:32:41 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 59.519
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+--------------------------------------------------------------------
+
+20:32:41 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+20:32:41 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<1c26c470>
+20:32:41 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+20:32:41 [ii] │	├ Done -> SUserConfigConstraints_Visual<1c2b4e60>
+====================================================================
+                      2025/01/19 20:42:43 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 63.275
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+--------------------------------------------------------------------
+
+20:42:43 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+20:42:43 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<d17bbac0>
+20:42:43 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+20:42:43 [ii] │	├ Done -> SUserConfigConstraints_Visual<9ce0aef0>
+====================================================================
+                      2025/01/19 22:29:21 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 61.565
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+22:29:21 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+22:29:21 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<3c453a70>
+22:29:21 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+22:29:21 [ii] │	├ Done -> SUserConfigConstraints_Visual<351d3960>
+====================================================================
+                      2025/01/19 22:43:14 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 62.76
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+--------------------------------------------------------------------
+
+22:43:14 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+22:43:14 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<cbd3c530>
+22:43:14 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+22:43:14 [ii] │	├ Done -> SUserConfigConstraints_Visual<aa914880>
+====================================================================
+                      2025/01/19 23:01:09 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 70.049
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:01:09 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:01:09 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<e2dec650>
+23:01:09 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:01:09 [ii] │	├ Done -> SUserConfigConstraints_Visual<5b20faf0>
+====================================================================
+                      2025/01/19 23:15:06 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 65.402
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:15:06 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:15:06 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<b12314b0>
+23:15:06 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:15:06 [ii] │	├ Done -> SUserConfigConstraints_Visual<b0689f20>
+====================================================================
+                      2025/01/19 23:21:19 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 60.269
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:21:19 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:21:19 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<79040b20>
+23:21:19 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:21:19 [ii] │	├ Done -> SUserConfigConstraints_Visual<b8f57460>
+====================================================================
+                      2025/01/19 23:28:35 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 72.529
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:28:35 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:28:35 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<c20f650>
+23:28:35 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:28:35 [ii] │	├ Done -> SUserConfigConstraints_Visual<b6526ff0>
+====================================================================
+                      2025/01/19 23:40:20 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 58.532
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:40:20 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:40:20 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<178f76c0>
+23:40:20 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:40:20 [ii] │	├ Done -> SUserConfigConstraints_Visual<173980e0>
+====================================================================
+                      2025/01/19 23:49:20 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-3RPGD03
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 55.526
+                  World name    : chernarusplus
+                  Game version  : 1.26.159040
+                  Mods          : 
+                  	- @CF
+                  	- @Tactical Flava
+                  	- @Forward Operator Gear
+                  	- @BodyBags
+                  	- @sFramework
+                  	- @sGunplay
+                  	- @SuppressionMod
+                  	- @sVisual
+                  	- @VPPAdminTools
+                  	- @Tarkov Medicine (Breathe mods)
+                  	- @DeathMatch
+--------------------------------------------------------------------
+
+23:49:20 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+23:49:20 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<b3bafed0>
+23:49:20 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+23:49:20 [ii] │	├ Done -> SUserConfigConstraints_Visual<9caed5f0>

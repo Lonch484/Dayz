@@ -1,0 +1,88 @@
+[
+    {
+        "m_Id": "ShadowComp",
+        "m_Name": "1",
+        "m_Items": [
+            "FOG_Helmet_MICH2000_Grey",
+            "FOG_Jacket_SoftShell_Black",
+            "FOG_Pants_Crye_G3_Black",
+            "FOG_GunGloves_Black",
+            "FOG_Operator_Boots_Black",
+            "FOG_Arcteryx_Balaclava_Black",
+            "FOG_Belt_RTGFB_Black",
+            "FOG_M32_Headset_Black",
+            "FOG_Vest_Gen4_Black"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "m81 HuiPomiChto",
+        "m_Name": "2",
+        "m_Items": [
+            "FOG_Helmet_MICH2000_M81",
+            "FOG_Crye_G3_Shirt_M81",
+            "FOG_Pants_Crye_G3_M81",
+            "FOG_Operator_Boots_RG",
+            "FOG_FerroGloves_M81",
+            "FOG_Vest_Osprey_M81",
+            "FOG_COMTAC3_Headset_RG",
+            "FOG_Arcteryx_Balaclava_RG"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "prison",
+        "m_Name": "3",
+        "m_Items": [
+            "FOG_Helmet_FAST_SF_CB",
+            "FOG_Crye_G3_Shirt_CB",
+            "FOG_UFP_Pants_CB",
+            "AthleticShoes_Black",
+            "FOG_FerroGloves_CB",
+            "FOG_Vest_Osprey_CB",
+            "FOG_Zypher_Boots_CB_Socks",
+            "FOG_Comtac3_Headphones_CB_Velcro",
+            "FOG_Arcteryx_Balaclava_CB"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "prison",
+        "m_Name": "4",
+        "m_Items": [
+            "PrisonerCap",
+            "PrisonUniformJacket",
+            "PrisonUniformPants",
+            "AthleticShoes_Black"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "prison",
+        "m_Name": "5",
+        "m_Items": [
+            "PrisonerCap",
+            "PrisonUniformJacket",
+            "PrisonUniformPants",
+            "AthleticShoes_Black"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    },
+    {
+        "m_Id": "prison",
+        "m_Name": "6",
+        "m_Items": [
+            "PrisonerCap",
+            "PrisonUniformJacket",
+            "PrisonUniformPants",
+            "AthleticShoes_Black"
+        ],
+        "m_Level": 1,
+        "m_Price": 0
+    }
+]

@@ -1,0 +1,46 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods)" -profiles=profiles "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye"
+=====================================================================
+Exe timestamp: 2025/01/19 22:17:47
+Current time:  2025/01/20 01:42:29
+Version 1.26.159040
+=====================================================================
+
+ 1:42:29.676 [Inputs] Loading inputs default "bin/constants.xml"
+ 1:42:29.692 [Inputs] Loading inputs default "bin/specific.xml"
+ 1:42:29.693 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 1:42:29.693 [Inputs] Loading inputs default "script_a/Inputs.xml"
+ 1:42:29.693 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 1:42:29.694 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 1:42:29.694 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 1:42:29.694 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 1:42:29.695 [Inputs] Loading inputs cfg "bin/core.xml"
+ 1:42:29.695 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 1:42:29.697 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 1:42:48.383 Hostname of server: "EXAMPLE NAME"
+ 1:43:14.660 Player connect enabled
+ 1:46:09.430 [Login]: Adding player Leonid Astapev (88432486) to login queue at position 0
+ 1:46:09.430 [LoginMachine]: Add player Leonid Astapev (88432486 26.114.104.113:49801)
+ 1:46:09.430 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid ) Entering AuthPlayerLoginState
+ 1:46:10.222 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid ) Entering WaitAuthPlayerLoginState
+ 1:46:13.967 Подключился игрок Leonid Astapev (id=kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=).
+ 1:46:13.967 Player "Leonid Astapev"(steamID=76561199221059231) is connected
+ 1:46:13.967 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid ) Entering WaitPlayerAssignedLoginState
+ 1:46:14.700 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid ) Entering PlayerAssignedLoginState
+ 1:46:14.700 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering CreateNetObjectsLoginState
+ 1:46:14.701 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering PreloadCamLoginState
+ 1:46:14.701 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering WaitPreloadCamLoginState
+ 1:47:06.302 [StateMachine]: Player Leonid Astapev (dpnid 88432486 uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=) Entering GetNewCharLoginState
+ 1:47:14.552 <CREATE NEW CHAR>:
+    charID 0
+    playerID 0
+    dpnid 88432486
+    uid kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=
+ 1:58:55.606 [Disconnect]: Client 88432486 early disconnect
+ 1:58:56.150 [Disconnect]: Start script disconnect 88432486 (dbCharacterId 0 dbPlayerId 0) logoutTime 0
+ 1:58:56.150 [Disconnect]: Finish script disconnect 88432486 (kO9sUGuazfYaOJGiQPifxsBR7Z_UNJbfq0h4tnNq2So=)
+ 1:58:56.150 [Disconnect]: DisconnectPlayerFinish 88432486
+ 1:58:56.150 [Disconnect]: Remove player info 88432486
+ 1:58:56.151 [Disconnect]: Player destroy 88432486 
+ 1:59:02.688  --- Termination successfully completed --- 
