@@ -1,0 +1,9 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\script_2025-01-19_23-08-36.log started at 19.01. 23:08:38
+
+SCRIPT       : Registered 348 temporary action enum(s), UAN==348
+SCRIPT    (E): @"VPPAdminTools/3_Game/vppadmintools\utils\xmlparser\xmlparser.c,173": Unknown type 'SGameConfig'
+SCRIPT    (E): Can't compile "Game" script module!
+
+VPPAdminTools/3_Game/vppadmintools\utils\xmlparser\xmlparser.c(173): Unknown type 'SGameConfig'
+SCRIPT    (E): Failed to load game scripts!

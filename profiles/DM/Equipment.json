@@ -1,7 +1,7 @@
 [
     {
         "m_Id": "ShadowComp",
-        "m_Name": "1",
+        "m_Name": "ShadowC",
         "m_Items": [
             "FOG_Helmet_MICH2000_Grey",
             "FOG_Jacket_SoftShell_Black",
@@ -17,8 +17,8 @@
         "m_Price": 0
     },
     {
-        "m_Id": "m81 HuiPomiChto",
-        "m_Name": "2",
+        "m_Id": "M81 HuiPomiChto",
+        "m_Name": "M81",
         "m_Items": [
             "FOG_Helmet_MICH2000_M81",
             "FOG_Crye_G3_Shirt_M81",
@@ -33,8 +33,8 @@
         "m_Price": 0
     },
     {
-        "m_Id": "prison",
-        "m_Name": "3",
+        "m_Id": "CB",
+        "m_Name": "CB",
         "m_Items": [
             "FOG_Helmet_FAST_SF_CB",
             "FOG_Crye_G3_Shirt_CB",
@@ -50,37 +50,50 @@
         "m_Price": 0
     },
     {
-        "m_Id": "prison",
-        "m_Name": "4",
+        "m_Id": "RG",
+        "m_Name": "RG",
         "m_Items": [
-            "PrisonerCap",
-            "PrisonUniformJacket",
-            "PrisonUniformPants",
-            "AthleticShoes_Black"
+            "FOG_FieldPants_RG",
+            "FOG_Enhanced_PCU_RG",
+            "FOG_FerroGloves_RG",
+            "FOG_Vest_Osprey_RG",
+            "FOG_Operator_Boots_RG",
+            "FOG_Helmet_MICH2000_RGRattle",
+            "FOG_M32_Headset_RG",
+            "FOG_Arcteryx_Balaclava_RG"
         ],
         "m_Level": 1,
         "m_Price": 0
     },
     {
-        "m_Id": "prison",
-        "m_Name": "5",
+        "m_Id": "DNC",
+        "m_Name": "DNC",
         "m_Items": [
-            "PrisonerCap",
-            "PrisonUniformJacket",
-            "PrisonUniformPants",
-            "AthleticShoes_Black"
+            "FOG_Helmet_FAST_SF_RG",
+            "FOG_Enhanced_PCU_DNC",
+            "FOG_Pants_Crye_G3_DNC",
+            "AthleticShoes_Black",
+            "FOG_Arcteryx_Balaclava_RG",
+            "FOG_M32_Helmet_RG",
+            "FOG_GunGloves_RG",
+            "FOG_Vest_Thor_EMR",
+            "FOG_Zypher_Boots_RG_Socks"
         ],
         "m_Level": 1,
         "m_Price": 0
     },
     {
-        "m_Id": "prison",
-        "m_Name": "6",
+        "m_Id": "FOG",
+        "m_Name": "FOG",
         "m_Items": [
-            "PrisonerCap",
-            "PrisonUniformJacket",
-            "PrisonUniformPants",
-            "AthleticShoes_Black"
+            "FOG_Watchcap_Black",
+            "FOG_M32_Headset_Black",
+            "FOG_511_Shirt_Flanel_Black",
+            "FOG_MTF_Pants_Black",
+            "AthleticShoes_Black",
+            "FOG_GunGloves_Black",
+            "FOG_Vest_Thor_Black",
+            "FOG_Zypher_Boots_Black_NoSocks"
         ],
         "m_Level": 1,
         "m_Price": 0

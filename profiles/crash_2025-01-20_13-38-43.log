@@ -1,0 +1,39 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-01-20_13-38-43.log started at 20.01. 13:51:44
+
+
+
+------------------------------------
+DESKTOP-3RPGD03, 20.01 2025 13:51:44
+Unhandled exception
+
+Program: D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: SEH exception thrown. Exception code: 0xc0000374 at 0x7ffbaad8f3c9
+
+[RtlIsZeroMemory]: ??? addr:0x7ffbaad8f3c9
+[RtlIsZeroMemory]: ??? addr:0x7ffbaad8f393
+[RtlpNtSetValueKey]: ??? addr:0x7ffbaad98112
+[RtlpNtSetValueKey]: ??? addr:0x7ffbaad983fa
+[RtlpNtSetValueKey]: ??? addr:0x7ffbaad9e081
+[RtlSizeHeap]: ??? addr:0x7ffbaacb422f
+SymGetSymFromAddr:487, addr:0x7ff632064559
+SymGetSymFromAddr:487, addr:0x7ff6320567d3
+SymGetSymFromAddr:487, addr:0x7ff632038fc3
+SymGetSymFromAddr:487, addr:0x7ff632039204
+[CDPCreateServer]: ??? addr:0x7ff63250c614
+[CDPCreateServer]: ??? addr:0x7ff6326f9e0e
+[CDPCreateServer]: ??? addr:0x7ff6326fa5f9
+SymGetSymFromAddr:487, addr:0x7ff63214061d
+[CDPCreateServer]: ??? addr:0x7ff6326fab04
+SymGetSymFromAddr:487, addr:0x7ff63214c17d
+[CDPCreateServer]: ??? addr:0x7ff632702676
+SymGetSymFromAddr:487, addr:0x7ff63226667b
+[CDPCreateServer]: ??? addr:0x7ff632852622
+[BaseThreadInitThunk]: ??? addr:0x7ffba97d7374
+[RtlUserThreadStart]: ??? addr:0x7ffbaacdcc91
+[RtlUserThreadStart]: ??? addr:0x7ffbaacdcc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 mod @CF;@Tactical Flava;@Forward Operator Gear;@BodyBags;@sFramework;@sGunplay;@SuppressionMod;@sVisual;@VPPAdminTools;@Tarkov Medicine (Breathe mods); profiles profiles BEpath D:\SteamLibrary\steamapps\common\DayZServer\battleye 

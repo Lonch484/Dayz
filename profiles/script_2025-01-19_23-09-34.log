@@ -1,0 +1,9 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\script_2025-01-19_23-09-34.log started at 19.01. 23:09:36
+
+SCRIPT       : Registered 307 temporary action enum(s), UAN==307
+SCRIPT    (E): @"script_a/scripts/3_Game/particlelist.c,9": Unknown type 'SGameConfig'
+SCRIPT    (E): Can't compile "Game" script module!
+
+script_a/scripts/3_Game/particlelist.c(9): Unknown type 'SGameConfig'
+SCRIPT    (E): Failed to load game scripts!
